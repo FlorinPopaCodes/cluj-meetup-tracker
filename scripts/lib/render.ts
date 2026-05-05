@@ -117,7 +117,7 @@ export interface ReadmeInput {
 
 export function renderReadme(i: ReadmeInput): string {
   const ts = new Intl.DateTimeFormat("ro-RO", {
-    timeZone: TZ, dateStyle: "long", timeStyle: "short",
+    timeZone: TZ, dateStyle: "long",
   }).format(i.generatedAt);
 
   return `# Evenimente Cluj

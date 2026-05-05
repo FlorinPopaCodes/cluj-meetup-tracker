@@ -17,6 +17,7 @@ import {
   writeEventsCsv,
 } from "./lib/csv.ts";
 import { loadFingerprint, saveFingerprint, updateFingerprint } from "./lib/schema.ts";
+import { sanitizeSnapshot } from "./lib/sanitize.ts";
 
 const REPO_ROOT = new URL("..", import.meta.url).pathname;
 const PATHS = {
@@ -126,9 +127,9 @@ async function main() {
     Deno.exit(2);
   }
 
-  const rawPayload: Record<string, unknown> = {};
+  const rawPayload: Record<string, unknown[]> = {};
   for (const s of sources) rawPayload[s.source] = s.raw;
-  writeSnapshot(today, rawPayload);
+  writeSnapshot(today, sanitizeSnapshot(rawPayload));
 
   const validEntries: { entry: ReturnType<typeof EntrySchema.parse>; source: string }[] = [];
   let parseFailures = 0;
