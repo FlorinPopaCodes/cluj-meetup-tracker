@@ -6,11 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Vineri, 8 mai
-
-- `19:00` [Cinevine #9 - Bicycle Thieves](https://lu.ma/luy3wflf)  
-  <sub>Sergiu · 49 de participanți</sub>
-
 ### Duminică, 10 mai
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/u3r2haij)  
@@ -24,22 +19,24 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Miercuri, 13 mai
 
 - `08:00` [Protocol Guild + Shutter: Threshold Encryption Running Club](https://lu.ma/yqqkox34)  
-  <sub>Shutter · 5 participanți</sub>
+  <sub>Shutter · 6 participanți</sub>
 - `12:00` [ETHCluj Pop-up Logos Circle: Tea & Purpose](https://lu.ma/nwgntu3l)  
-  <sub>Roxana Nasoi · 8 participanți</sub>
+  <sub>Roxana Nasoi · 9 participanți</sub>
+- `16:30` [Enterprise Roundtable at ETHCluj 2026](https://lu.ma/nn9ij66r)  
+  <sub>ETHCluj · 4 participanți</sub>
 - `19:00` [Proiecție de film & discuție: Ed Wood (r. Tim Burton)](https://lu.ma/udqxa4ix)  
-  <sub>Centrul de Cultura Urbana · 10 participanți</sub>
+  <sub>Centrul de Cultura Urbana · 18 participanți</sub>
 - `19:30` [Building Smart Investors: The Role of Education in Investing & Trading](https://lu.ma/59fhgj13)  
-  <sub>Crypto Society · 51 de participanți</sub>
+  <sub>Crypto Society · 59 de participanți</sub>
 
 ### Joi, 14 mai
 
 - `10:20` [Logos Privacy Builders Bootcamp](https://lu.ma/rryhld2v)  
-  <sub>Roxana Nasoi · 9 participanți</sub>
+  <sub>Roxana Nasoi · 10 participanți</sub>
 - `18:00` [#9 SEO Cluj Meetup - Claude for SEO & Agentic Workflows](https://lu.ma/k3ngzgyy)  
-  <sub>Patrik Rojan · 14 participanți</sub>
+  <sub>Patrik Rojan · 15 participanți</sub>
 - `18:00` [🎉 ETHCluj 2026 Closing Party 🎉](https://lu.ma/qbjx2xcz)  
-  <sub>ETHCluj · 27 de participanți</sub>
+  <sub>ETHCluj · 31 de participanți</sub>
 - `18:00` [OpenAlt Romania Meetup #3](https://lu.ma/x1lvdcgq)  
   <sub>Barbora Viski · 3 participanți</sub>
 
@@ -51,17 +48,24 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Vineri, 22 mai
 
 - `15:00` [n8n Cluj-Napoca Community Meetup opens Cluj Hackathon 2026](https://lu.ma/uw5qhwhs)  
-  <sub>n8n · 26 de participanți</sub>
+  <sub>n8n · 29 de participanți</sub>
+
+### Sâmbătă, 23 mai
+
+- `10:00` [Cluj AI Buildathon](https://lu.ma/br26iwpa)  
+  <sub>Contact | ROTSA · 13 participanți</sub>
+- `10:30` [Despre emoții în viața reală \| IRL SPACE Workshop](https://lu.ma/f82zjc3h)  
+  <sub>Monica Dumitrescu · 5 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-08)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-09)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-08)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-09)
 
 ## Despre
 
@@ -73,4 +77,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 8 mai 2026*
+*Actualizat: 9 mai 2026*
