@@ -9,7 +9,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Duminică, 10 mai
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/u3r2haij)  
-  <sub>Andrei Catinas · 3 participanți</sub>
+  <sub>Andrei Catinas · 8 participanți</sub>
 
 ### Marți, 12 mai
 
@@ -25,7 +25,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `16:30` [Enterprise Roundtable at ETHCluj 2026](https://lu.ma/nn9ij66r)  
   <sub>ETHCluj · 4 participanți</sub>
 - `19:00` [Proiecție de film & discuție: Ed Wood (r. Tim Burton)](https://lu.ma/udqxa4ix)  
-  <sub>Centrul de Cultura Urbana · 18 participanți</sub>
+  <sub>Centrul de Cultura Urbana · 20 de participanți</sub>
 - `19:30` [Building Smart Investors: The Role of Education in Investing & Trading](https://lu.ma/59fhgj13)  
   <sub>Crypto Society · 59 de participanți</sub>
 
@@ -48,7 +48,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Vineri, 22 mai
 
 - `15:00` [n8n Cluj-Napoca Community Meetup opens Cluj Hackathon 2026](https://lu.ma/uw5qhwhs)  
-  <sub>n8n · 29 de participanți</sub>
+  <sub>n8n · 31 de participanți</sub>
 
 ### Sâmbătă, 23 mai
 
@@ -57,15 +57,20 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `10:30` [Despre emoții în viața reală \| IRL SPACE Workshop](https://lu.ma/f82zjc3h)  
   <sub>Monica Dumitrescu · 5 participanți</sub>
 
+### Duminică, 24 mai
+
+- `10:00` [Tura de duminică Cluj](https://lu.ma/714l1a72)  
+  <sub>Andrei Catinas · 1 participant</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-09)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-10)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-09)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-10)
 
 ## Despre
 
@@ -77,4 +82,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 9 mai 2026*
+*Actualizat: 10 mai 2026*
