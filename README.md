@@ -6,19 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Joi, 14 mai
-
-- `09:00` [L2BEAT Governance Breakfast @ ETHCluj](https://lu.ma/b38k1xt8)  
-  <sub>Krzysztof Urbański · 24 de participanți</sub>
-- `10:20` [Logos Privacy Builders Bootcamp](https://lu.ma/rryhld2v)  
-  <sub>Roxana Nasoi · 18 participanți</sub>
-- `18:00` [#9 SEO Cluj Meetup - Product SEO, Claude SEO & Agentic Workflows](https://lu.ma/k3ngzgyy)  
-  <sub>Patrik Rojan · 30 de participanți</sub>
-- `18:00` [🎉 ETHCluj 2026 Closing Party 🎉](https://lu.ma/qbjx2xcz)  
-  <sub>ETHCluj · 55 de participanți</sub>
-- `18:00` [OpenAlt Romania Meetup #3](https://lu.ma/x1lvdcgq)  
-  <sub>Barbora Viski · 9 participanți</sub>
-
 ### Duminică, 17 mai
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/bsej9bkm)  
@@ -37,7 +24,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Sâmbătă, 23 mai
 
 - `10:00` [Cluj AI Buildathon](https://lu.ma/br26iwpa)  
-  <sub>Contact | ROTSA · 24 de participanți</sub>
+  <sub>Contact | ROTSA · 28 de participanți</sub>
 - `10:30` [Despre emoții în viața reală \| IRL SPACE Workshop](https://lu.ma/f82zjc3h)  
   <sub>Monica Dumitrescu · 6 participanți</sub>
 
@@ -60,11 +47,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-14)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-15)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-14)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-15)
 
 ## Despre
 
@@ -76,4 +63,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 14 mai 2026*
+*Actualizat: 15 mai 2026*
