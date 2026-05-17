@@ -9,9 +9,9 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Duminică, 17 mai
 
 - `10:00` [HGRC X GARMIN](https://lu.ma/rtwi2432)  
-  <sub>Hot Girl Run Club · 30 de participanți</sub>
+  <sub>Hot Girl Run Club</sub>
 - `10:00` [Tura de duminică Cluj](https://lu.ma/bsej9bkm)  
-  <sub>Andrei Catinas · 3 participanți</sub>
+  <sub>Andrei Catinas · 8 participanți</sub>
 
 ### Miercuri, 20 mai
 
@@ -21,12 +21,12 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Vineri, 22 mai
 
 - `15:00` [n8n Cluj-Napoca Community Meetup opens Cluj Hackathon 2026](https://lu.ma/uw5qhwhs)  
-  <sub>n8n · 64 de participanți</sub>
+  <sub>n8n · 66 de participanți</sub>
 
 ### Sâmbătă, 23 mai
 
 - `10:00` [Cluj AI Buildathon](https://lu.ma/br26iwpa)  
-  <sub>Contact | ROTSA · 32 de participanți</sub>
+  <sub>Contact | ROTSA · 34 de participanți</sub>
 - `10:30` [Despre emoții în viața reală \| IRL SPACE Workshop](https://lu.ma/f82zjc3h)  
   <sub>Monica Dumitrescu · 6 participanți</sub>
 
@@ -43,17 +43,22 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Joi, 28 mai
 
 - `18:00` [AI & Automation Meetup \| Cluj-Napoca](https://lu.ma/sdyzxvos)  
-  <sub>Flowgrammer.club · 7 participanți</sub>
+  <sub>Flowgrammer.club · 9 participanți</sub>
+
+### Duminică, 31 mai
+
+- `10:00` [Tura de duminică Cluj](https://lu.ma/uxcluk7k)  
+  <sub>Andrei Catinas · 1 participant</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-16)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-17)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-16)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-17)
 
 ## Despre
 
@@ -65,4 +70,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 16 mai 2026*
+*Actualizat: 17 mai 2026*
