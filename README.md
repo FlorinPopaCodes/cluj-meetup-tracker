@@ -6,20 +6,15 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Miercuri, 20 mai
-
-- `18:00` [Local Hub Cluj: Designing L&D Programs with Positive Psychology](https://lu.ma/olwcfwox)  
-  <sub>L&D SHAKERS</sub>
-
 ### Vineri, 22 mai
 
 - `15:00` [n8n Cluj-Napoca Community Meetup opens Cluj Hackathon 2026](https://lu.ma/uw5qhwhs)  
-  <sub>n8n · 170 de participanți</sub>
+  <sub>n8n · 179 de participanți</sub>
 
 ### Sâmbătă, 23 mai
 
 - `10:00` [Cluj AI Buildathon](https://lu.ma/br26iwpa)  
-  <sub>Contact | ROTSA · 65 de participanți</sub>
+  <sub>Contact | ROTSA · 83 de participanți</sub>
 - `10:30` [Despre emoții în viața reală \| IRL SPACE Workshop](https://lu.ma/f82zjc3h)  
   <sub>Monica Dumitrescu · 6 participanți</sub>
 
@@ -31,7 +26,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Marți, 26 mai
 
 - `18:00` [Founders Club CLUJ: From Cluj to Europe-Building Local Products with Global Impact](https://lu.ma/6fefxqzt)  
-  <sub>Contact | ROTSA · 9 participanți</sub>
+  <sub>Contact | ROTSA · 10 participanți</sub>
 - `19:00` [Product drinks in Cluj-Napoca](https://lu.ma/bz5esyht)  
   <sub>ioana simtion · 8 participanți</sub>
 
@@ -39,6 +34,8 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 - `18:00` [AI & Automation Meetup \| Cluj-Napoca](https://lu.ma/sdyzxvos)  
   <sub>Flowgrammer.club · 12 participanți</sub>
+- `18:30` [🎓 ETHCluj 2026 Arbitrum Workshop - Recap & Next Steps🧑‍💻](https://lu.ma/txcq6we0)  
+  <sub>ETHCluj · 6 participanți</sub>
 
 ### Duminică, 31 mai
 
@@ -49,11 +46,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-20)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-21)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-20)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-21)
 
 ## Despre
 
@@ -65,4 +62,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 20 mai 2026*
+*Actualizat: 21 mai 2026*
