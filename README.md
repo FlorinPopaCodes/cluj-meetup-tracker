@@ -6,24 +6,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Marți, 26 mai
-
-- `18:00` [Founders Club CLUJ: From Cluj to Europe-Building Local Products with Global Impact](https://lu.ma/6fefxqzt)  
-  <sub>Contact | ROTSA · 58 de participanți</sub>
-- `19:00` [Product drinks in Cluj-Napoca](https://lu.ma/bz5esyht)  
-  <sub>ioana simtion · 9 participanți</sub>
-
 ### Miercuri, 27 mai
 
 - `19:00` [HGRC X Sports Festival](https://lu.ma/dr304mpz)  
-  <sub>Hot Girl Run Club · 44 de participanți</sub>
+  <sub>Hot Girl Run Club · 45 de participanți</sub>
 
 ### Joi, 28 mai
 
 - `18:00` [AI & Automation Meetup \| Cluj-Napoca](https://lu.ma/sdyzxvos)  
-  <sub>Flowgrammer.club · 21 de participanți</sub>
+  <sub>Flowgrammer.club · 27 de participanți</sub>
 - `18:30` [🎓 ETHCluj 2026 Arbitrum Workshop - Recap & Next Steps🧑‍💻](https://lu.ma/txcq6we0)  
-  <sub>ETHCluj · 13 participanți</sub>
+  <sub>ETHCluj · 20 de participanți</sub>
 
 ### Duminică, 31 mai
 
@@ -39,11 +32,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-26)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-27)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-26)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-27)
 
 ## Despre
 
@@ -55,4 +48,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 26 mai 2026*
+*Actualizat: 27 mai 2026*
