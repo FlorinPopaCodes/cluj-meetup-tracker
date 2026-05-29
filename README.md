@@ -6,19 +6,20 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Joi, 28 mai
-
-- `18:00` [AI & Automation Meetup \| Cluj-Napoca](https://lu.ma/sdyzxvos)  
-  <sub>Flowgrammer.club · 51 de participanți</sub>
-- `18:30` [🎓 ETHCluj 2026 Arbitrum Workshop - Recap & Next Steps🧑‍💻](https://lu.ma/txcq6we0)  
-  <sub>ETHCluj · 21 de participanți</sub>
-- `19:30` [Cluj Data & AI Meetup #5](https://lu.ma/brvapwlc)  
-  <sub>Sorin Marian · 4 participanți</sub>
-
 ### Duminică, 31 mai
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/uxcluk7k)  
-  <sub>Andrei Catinas · 2 participanți</sub>
+  <sub>Andrei Catinas · 3 participanți</sub>
+
+### Miercuri, 3 iunie
+
+- `09:00` [Cluj Design Coffee Meet #1 \| Navigating Design Roles in 2026](https://lu.ma/xe1j4620)  
+  <sub>Andrei Bohateret · 4 participanți</sub>
+
+### Vineri, 5 iunie
+
+- `16:00` [build fridays cluj - work on your startup alongside others (bring laptop)](https://lu.ma/uqrga0bx)  
+  <sub>Schipor Vasile · 3 participanți</sub>
 
 ### Marți, 9 iunie
 
@@ -29,11 +30,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-28)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-29)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-28)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-29)
 
 ## Despre
 
@@ -45,4 +46,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 28 mai 2026*
+*Actualizat: 29 mai 2026*
