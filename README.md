@@ -9,7 +9,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Duminică, 31 mai
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/uxcluk7k)  
-  <sub>Andrei Catinas · 3 participanți</sub>
+  <sub>Andrei Catinas · 7 participanți</sub>
 
 ### Miercuri, 3 iunie
 
@@ -26,17 +26,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `18:00` [The Last Programmer - A Conversation About Who We Become](https://lu.ma/hn224xgq)  
   <sub>Calin Buzan · 3 participanți</sub>
 - `18:30` [Is your AI Safe enough?](https://lu.ma/9zr55ox5)  
-  <sub>Robert Pop · 55 de participanți</sub>
+  <sub>Robert Pop · 57 de participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-30)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-05-31)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-30)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-05-31)
 
 ## Despre
 
@@ -48,4 +48,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 30 mai 2026*
+*Actualizat: 31 mai 2026*
