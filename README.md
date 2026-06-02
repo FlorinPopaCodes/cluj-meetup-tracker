@@ -9,7 +9,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Miercuri, 3 iunie
 
 - `09:00` [Cluj Design Coffee Meet #1 \| Navigating Design Roles in 2026](https://lu.ma/xe1j4620)  
-  <sub>Andrei Bohateret · 4 participanți</sub>
+  <sub>Andrei Bohateret · 5 participanți</sub>
 
 ### Vineri, 5 iunie
 
@@ -19,19 +19,19 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Marți, 9 iunie
 
 - `18:00` [The Last Programmer - A Conversation About Who We Become](https://lu.ma/hn224xgq)  
-  <sub>Calin Buzan · 3 participanți</sub>
+  <sub>Calin Buzan · 4 participanți</sub>
 - `18:30` [Is your AI Safe enough?](https://lu.ma/9zr55ox5)  
-  <sub>Robert Pop · 59 de participanți</sub>
+  <sub>Robert Pop · 65 de participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-01)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-02)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-01)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-02)
 
 ## Despre
 
@@ -43,4 +43,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 1 iunie 2026*
+*Actualizat: 2 iunie 2026*
