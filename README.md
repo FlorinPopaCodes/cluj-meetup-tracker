@@ -6,24 +6,19 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Vineri, 5 iunie
-
-- `16:00` [build fridays cluj - work on your startup alongside others (bring laptop)](https://lu.ma/uqrga0bx)  
-  <sub>Schipor Vasile · 22 de participanți</sub>
-
 ### Duminică, 7 iunie
 
 - `10:00` [HOT GIRL RUN CLUB x NIKE RUNNING: FULL HORSEPOWER](https://lu.ma/mgrc6qog)  
   <sub>Hot Girl Run Club · 70 de participanți</sub>
 - `10:00` [Tura de duminică Cluj](https://lu.ma/okeevpv0)  
-  <sub>Andrei Catinas · 1 participant</sub>
+  <sub>Andrei Catinas · 4 participanți</sub>
 
 ### Marți, 9 iunie
 
 - `18:00` [The Last Programmer - A Conversation About Who We Become](https://lu.ma/hn224xgq)  
   <sub>Calin Buzan · 14 participanți</sub>
 - `18:30` [Is your AI Safe enough?](https://lu.ma/9zr55ox5)  
-  <sub>Robert Pop · 90 de participanți</sub>
+  <sub>Robert Pop · 92 de participanți</sub>
 
 ### Joi, 11 iunie
 
@@ -35,15 +30,20 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `10:00` [Tura de duminică Cluj](https://lu.ma/gdbojtdg)  
   <sub>Andrei Catinas · 1 participant</sub>
 
+### Joi, 18 iunie
+
+- `18:00` [AI & Automation Meetup: The SEO & Marketing Edition](https://lu.ma/dqx6c1ve)  
+  <sub>Flowgrammer.club · 7 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-05)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-06)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-05)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-06)
 
 ## Despre
 
@@ -55,4 +55,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 5 iunie 2026*
+*Actualizat: 6 iunie 2026*
