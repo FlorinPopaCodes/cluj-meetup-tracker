@@ -6,19 +6,12 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Duminică, 7 iunie
-
-- `10:00` [HOT GIRL RUN CLUB x NIKE RUNNING: FULL HORSEPOWER](https://lu.ma/mgrc6qog)  
-  <sub>Hot Girl Run Club · 69 de participanți</sub>
-- `10:00` [Tura de duminică Cluj](https://lu.ma/okeevpv0)  
-  <sub>Andrei Catinas · 7 participanți</sub>
-
 ### Marți, 9 iunie
 
 - `18:00` [The Last Programmer - A Conversation About Who We Become](https://lu.ma/hn224xgq)  
   <sub>Calin Buzan · 15 participanți</sub>
 - `18:30` [Is your AI Safe enough?](https://lu.ma/9zr55ox5)  
-  <sub>Robert Pop · 93 de participanți</sub>
+  <sub>Robert Pop · 99 de participanți</sub>
 
 ### Joi, 11 iunie
 
@@ -44,11 +37,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-07)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-08)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-07)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-08)
 
 ## Despre
 
@@ -60,4 +53,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 7 iunie 2026*
+*Actualizat: 8 iunie 2026*
