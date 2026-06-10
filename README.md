@@ -6,12 +6,10 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Marți, 9 iunie
+### Miercuri, 10 iunie
 
-- `18:00` [The Last Programmer - A Conversation About Who We Become](https://lu.ma/hn224xgq)  
-  <sub>Calin Buzan · 17 participanți</sub>
-- `18:30` [Is your AI Safe enough?](https://lu.ma/9zr55ox5)  
-  <sub>Robert Pop · 103 de participanți</sub>
+- `19:00` [WEDNESDAY TRACK](https://lu.ma/52bmghdz)  
+  <sub>Pop Iulia · 12 participanți</sub>
 
 ### Joi, 11 iunie
 
@@ -26,22 +24,27 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Joi, 18 iunie
 
 - `18:00` [AI & Automation Meetup: The SEO & Marketing Edition](https://lu.ma/dqx6c1ve)  
-  <sub>Flowgrammer.club · 11 participanți</sub>
+  <sub>Flowgrammer.club · 12 participanți</sub>
 
 ### Duminică, 21 iunie
 
 - `09:00` [Tura de duminică Cluj](https://lu.ma/7b17c4q5)  
   <sub>Andrei Catinas · 1 participant</sub>
 
+### Marți, 23 iunie
+
+- `19:00` [Cluj Tech Mixer \| Techsylvania Pre-Party](https://lu.ma/3m71vmzv)  
+  <sub>Neo Mixers by ▲promocrat · 3 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-09)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-10)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-09)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-10)
 
 ## Despre
 
@@ -53,4 +56,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 9 iunie 2026*
+*Actualizat: 10 iunie 2026*
