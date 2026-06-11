@@ -6,11 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Miercuri, 10 iunie
-
-- `19:00` [WEDNESDAY TRACK](https://lu.ma/52bmghdz)  
-  <sub>Pop Iulia · 12 participanți</sub>
-
 ### Joi, 11 iunie
 
 - `21:00` [Underneath My Colours (Cluj)](https://lu.ma/1lrju4c2)  
@@ -24,7 +19,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Joi, 18 iunie
 
 - `18:00` [AI & Automation Meetup: The SEO & Marketing Edition](https://lu.ma/dqx6c1ve)  
-  <sub>Flowgrammer.club · 12 participanți</sub>
+  <sub>Flowgrammer.club · 15 participanți</sub>
 
 ### Duminică, 21 iunie
 
@@ -34,17 +29,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Marți, 23 iunie
 
 - `19:00` [Cluj Tech Mixer \| Techsylvania Pre-Party](https://lu.ma/3m71vmzv)  
-  <sub>Neo Mixers by ▲promocrat · 3 participanți</sub>
+  <sub>Neo Mixers by ▲promocrat · 5 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-10)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-11)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-10)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-11)
 
 ## Despre
 
@@ -56,4 +51,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 10 iunie 2026*
+*Actualizat: 11 iunie 2026*
