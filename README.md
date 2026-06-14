@@ -24,17 +24,22 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Marți, 23 iunie
 
 - `19:00` [Cluj Tech Mixer \| Techsylvania Pre-Party](https://lu.ma/3m71vmzv)  
-  <sub>Neo Mixers by ▲promocrat · 16 participanți</sub>
+  <sub>Neo Mixers by ▲promocrat · 17 participanți</sub>
+
+### Duminică, 28 iunie
+
+- `09:00` [Tura de duminică Cluj](https://lu.ma/z7r6kg4v)  
+  <sub>Andrei Catinas · 2 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-13)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-14)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-13)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-14)
 
 ## Despre
 
@@ -46,4 +51,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 13 iunie 2026*
+*Actualizat: 14 iunie 2026*
