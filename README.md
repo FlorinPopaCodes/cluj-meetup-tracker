@@ -6,25 +6,30 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
+### Miercuri, 17 iunie
+
+- `19:00` [Hot Girl Wednesday](https://lu.ma/acd40off)  
+  <sub>Hot Girl Run Club · 12 participanți</sub>
+
 ### Joi, 18 iunie
 
 - `18:00` [AI & Automation Meetup: The SEO & Marketing Edition](https://lu.ma/dqx6c1ve)  
-  <sub>Flowgrammer.club · 38 de participanți</sub>
+  <sub>Flowgrammer.club · 50 de participanți</sub>
 
 ### Vineri, 19 iunie
 
 - `16:00` [build fridays cluj - work on your startup alongside others (bring laptop)](https://lu.ma/5qnuyhb6)  
-  <sub>Schipor Vasile · 5 participanți</sub>
+  <sub>Schipor Vasile · 6 participanți</sub>
 
 ### Duminică, 21 iunie
 
 - `09:00` [Tura de duminică Cluj](https://lu.ma/7b17c4q5)  
-  <sub>Andrei Catinas · 2 participanți</sub>
+  <sub>Andrei Catinas · 3 participanți</sub>
 
 ### Marți, 23 iunie
 
 - `19:00` [Cluj Tech Mixer \| Techsylvania Pre-Party](https://lu.ma/3m71vmzv)  
-  <sub>Neo Mixers by ▲promocrat · 31 de participanți</sub>
+  <sub>Neo Mixers by ▲promocrat · 46 de participanți</sub>
 
 ### Duminică, 28 iunie
 
@@ -35,11 +40,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-16)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-17)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-16)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-17)
 
 ## Despre
 
@@ -51,4 +56,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 16 iunie 2026*
+*Actualizat: 17 iunie 2026*
