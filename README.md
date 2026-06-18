@@ -6,15 +6,10 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Miercuri, 17 iunie
-
-- `19:00` [Hot Girl Wednesday](https://lu.ma/acd40off)  
-  <sub>Hot Girl Run Club · 12 participanți</sub>
-
 ### Joi, 18 iunie
 
 - `18:00` [AI & Automation Meetup: The SEO & Marketing Edition](https://lu.ma/dqx6c1ve)  
-  <sub>Flowgrammer.club · 50 de participanți</sub>
+  <sub>Flowgrammer.club · 64 de participanți</sub>
 
 ### Vineri, 19 iunie
 
@@ -29,7 +24,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Marți, 23 iunie
 
 - `19:00` [Cluj Tech Mixer \| Techsylvania Pre-Party](https://lu.ma/3m71vmzv)  
-  <sub>Neo Mixers by ▲promocrat · 46 de participanți</sub>
+  <sub>Neo Mixers by ▲promocrat · 72 de participanți</sub>
 
 ### Duminică, 28 iunie
 
@@ -40,11 +35,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-17)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-18)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-17)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-18)
 
 ## Despre
 
@@ -56,4 +51,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 17 iunie 2026*
+*Actualizat: 18 iunie 2026*
