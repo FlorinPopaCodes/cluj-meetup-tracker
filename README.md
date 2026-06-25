@@ -6,25 +6,25 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Miercuri, 24 iunie
-
-- `19:00` [Track Wednesday](https://lu.ma/6gbr7rk0)  
-  <sub>Pop Iulia · 6 participanți</sub>
-
 ### Duminică, 28 iunie
 
 - `09:00` [Tura de duminică Cluj](https://lu.ma/z7r6kg4v)  
   <sub>Andrei Catinas · 2 participanți</sub>
 
+### Joi, 9 iulie
+
+- `18:00` [AI adoption behind the hype](https://lu.ma/litcj)  
+  <sub>Bogdan Popescu</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-24)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-25)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-24)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-25)
 
 ## Despre
 
@@ -36,4 +36,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 24 iunie 2026*
+*Actualizat: 25 iunie 2026*
