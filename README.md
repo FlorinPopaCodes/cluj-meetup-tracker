@@ -9,27 +9,32 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Duminică, 28 iunie
 
 - `09:00` [Tura de duminică Cluj](https://lu.ma/z7r6kg4v)  
-  <sub>Andrei Catinas · 6 participanți</sub>
+  <sub>Andrei Catinas · 9 participanți</sub>
 
 ### Duminică, 5 iulie
 
 - `09:00` [Tura de duminică Cluj](https://lu.ma/w6oyhajg)  
-  <sub>Andrei Catinas · 1 participant</sub>
+  <sub>Andrei Catinas · 2 participanți</sub>
 
 ### Joi, 9 iulie
 
 - `18:00` [AI adoption behind the hype](https://lu.ma/litcj)  
   <sub>Bogdan Popescu</sub>
 
+### Duminică, 12 iulie
+
+- `09:00` [Tura de duminică Cluj](https://lu.ma/shdx0ymz)  
+  <sub>Andrei Catinas · 2 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-27)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-28)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-27)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-28)
 
 ## Despre
 
@@ -41,4 +46,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 27 iunie 2026*
+*Actualizat: 28 iunie 2026*
