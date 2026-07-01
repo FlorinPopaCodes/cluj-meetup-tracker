@@ -25,11 +25,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-06-30)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-01)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-06-30)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-01)
 
 ## Despre
 
@@ -41,4 +41,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 30 iunie 2026*
+*Actualizat: 1 iulie 2026*
