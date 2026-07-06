@@ -6,19 +6,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Duminică, 5 iulie
-
-- `08:30` [Run & Yap](https://lu.ma/oarnepei)  
-  <sub>Hot Girl Run Club · 21 de participanți</sub>
-- `09:00` [Tura de duminică Cluj](https://lu.ma/w6oyhajg)  
-  <sub>Andrei Catinas · 5 participanți</sub>
-
 ### Joi, 9 iulie
 
 - `18:00` [AI adoption behind the hype](https://lu.ma/litcj)  
   <sub>Bogdan Popescu</sub>
 - `18:00` [SEO CLUJ Meetup - Special Edition - 1 Year Anniversary](https://lu.ma/7wd1vdu6)  
   <sub>Patrik Rojan · 23 de participanți</sub>
+
+### Sâmbătă, 11 iulie
+
+- `08:30` [Run & Shine](https://lu.ma/r1a08tkn)  
+  <sub>Hot Girl Run Club · 85 de participanți</sub>
 
 ### Duminică, 12 iulie
 
@@ -34,11 +32,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-05)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-06)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-05)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-06)
 
 ## Despre
 
@@ -50,4 +48,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 5 iulie 2026*
+*Actualizat: 6 iulie 2026*
