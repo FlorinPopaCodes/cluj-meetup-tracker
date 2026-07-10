@@ -6,13 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Joi, 9 iulie
-
-- `18:00` [AI adoption behind the hype](https://lu.ma/litcj)  
-  <sub>Bogdan Popescu</sub>
-- `18:00` [SEO CLUJ Meetup - Special Edition - 1 Year Anniversary](https://lu.ma/7wd1vdu6)  
-  <sub>Patrik Rojan · 27 de participanți</sub>
-
 ### Vineri, 10 iulie
 
 - `16:00` [build fridays cluj - work on your startup alongside others (bring laptop)](https://lu.ma/r73w8bym)  
@@ -36,17 +29,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Marți, 21 iulie
 
 - `18:30` [Let's talk Psychology, FOMO and noise](https://lu.ma/sct5p1i9)  
-  <sub>Robert Pop · 52 de participanți</sub>
+  <sub>Robert Pop · 54 de participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-09)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-10)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-09)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-10)
 
 ## Despre
 
@@ -58,4 +51,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 9 iulie 2026*
+*Actualizat: 10 iulie 2026*
