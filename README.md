@@ -6,6 +6,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
+### Joi, 16 iulie
+
+- `18:00` [OpenAlt Romania Meetup #4](https://lu.ma/w0czz013)  
+  <sub>Barbora Viski · 3 participanți</sub>
+
 ### Duminică, 19 iulie
 
 - `09:00` [Tura de duminică Cluj](https://lu.ma/qmbiiuh7)  
@@ -25,11 +30,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-15)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-16)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-15)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-16)
 
 ## Despre
 
@@ -41,4 +46,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 15 iulie 2026*
+*Actualizat: 16 iulie 2026*
