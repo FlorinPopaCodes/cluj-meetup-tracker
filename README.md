@@ -21,7 +21,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Vineri, 24 iulie
 
 - `19:00` [CineVine #10 - The lovers on the bridge (1991)](https://lu.ma/4r13uoy5)  
-  <sub>Horj Andreea · 15 participanți</sub>
+  <sub>Horj Andreea · 20 de participanți</sub>
 
 ### Duminică, 26 iulie
 
@@ -32,11 +32,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-18)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-19)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-18)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-19)
 
 ## Despre
 
@@ -48,4 +48,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 18 iulie 2026*
+*Actualizat: 19 iulie 2026*
