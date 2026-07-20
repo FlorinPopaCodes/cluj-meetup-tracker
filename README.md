@@ -6,22 +6,15 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Duminică, 19 iulie
-
-- `08:30` [HOT GIRL SUNDAY RUN](https://lu.ma/eyhlc47m)  
-  <sub>Hot Girl Run Club · 7 participanți</sub>
-- `09:00` [Tura de duminică Cluj](https://lu.ma/qmbiiuh7)  
-  <sub>Andrei Catinas · 2 participanți</sub>
-
 ### Marți, 21 iulie
 
 - `18:30` [Let's talk Psychology, FOMO and noise](https://lu.ma/sct5p1i9)  
-  <sub>Robert Pop · 63 de participanți</sub>
+  <sub>Robert Pop · 64 de participanți</sub>
 
 ### Vineri, 24 iulie
 
 - `19:00` [CineVine #10 - The lovers on the bridge (1991)](https://lu.ma/4r13uoy5)  
-  <sub>Horj Andreea · 20 de participanți</sub>
+  <sub>Horj Andreea · 23 de participanți</sub>
 
 ### Duminică, 26 iulie
 
@@ -32,11 +25,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-19)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-20)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-19)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-20)
 
 ## Despre
 
@@ -48,4 +41,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 19 iulie 2026*
+*Actualizat: 20 iulie 2026*
