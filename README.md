@@ -10,16 +10,18 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 - `09:00` [Tura de duminică Cluj](https://lu.ma/ico4zqz3)  
   <sub>Andrei Catinas · 5 participanți</sub>
+- `09:30` [HOT GIRL SUNDAY RUN](https://lu.ma/x6qoxcnw)  
+  <sub>Hot Girl Run Club · 22 de participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-25)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-07-26)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-25)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-07-26)
 
 ## Despre
 
@@ -31,4 +33,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 25 iulie 2026*
+*Actualizat: 26 iulie 2026*
