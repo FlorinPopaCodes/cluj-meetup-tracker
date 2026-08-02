@@ -13,7 +13,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `09:00` [Watermelon Sugar Run 🍉](https://lu.ma/9145daaa)  
   <sub>Hot Girl Run Club · 21 de participanți</sub>
 - `10:00` [Forest Day Retreat](https://lu.ma/xx2gaygj)  
-  <sub>Criste Irina Raluca · Florești, Romania · 3 participanți</sub>
+  <sub>Criste Irina Raluca · Florești, Romania · 4 participanți</sub>
 
 ### Joi, 6 august
 
@@ -25,15 +25,20 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `09:00` [Tura de duminică Cluj](https://lu.ma/2d27yxqk)  
   <sub>Andrei Catinas</sub>
 
+### Duminică, 16 august
+
+- `09:00` [Tura de duminică Cluj](https://lu.ma/3z7pabo7)  
+  <sub>Andrei Catinas</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-01)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-02)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-01)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-02)
 
 ## Despre
 
@@ -45,4 +50,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 1 august 2026*
+*Actualizat: 2 august 2026*
