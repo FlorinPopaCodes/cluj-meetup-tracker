@@ -6,15 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Duminică, 2 august
-
-- `09:00` [Tura de duminică Cluj](https://lu.ma/vbnqaa92)  
-  <sub>Andrei Catinas · 3 participanți</sub>
-- `09:00` [Watermelon Sugar Run 🍉](https://lu.ma/9145daaa)  
-  <sub>Hot Girl Run Club · 21 de participanți</sub>
-- `10:00` [Forest Day Retreat](https://lu.ma/xx2gaygj)  
-  <sub>Criste Irina Raluca · Florești, Romania · 4 participanți</sub>
-
 ### Joi, 6 august
 
 - `19:30` [ETHCluj Chill & Chat Community Hangout #30](https://lu.ma/pko9dgfd)  
@@ -34,11 +25,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-02)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-03)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-02)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-03)
 
 ## Despre
 
@@ -50,4 +41,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 2 august 2026*
+*Actualizat: 3 august 2026*
