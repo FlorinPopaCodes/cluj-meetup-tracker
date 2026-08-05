@@ -6,6 +6,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
+### Miercuri, 5 august
+
+- `20:15` [MIDWEEK RUN #13](https://lu.ma/gvfvl9kg)  
+  <sub>Hot Girl Run Club · 8 participanți</sub>
+
 ### Joi, 6 august
 
 - `19:30` [ETHCluj Chill & Chat Community Hangout #30](https://lu.ma/pko9dgfd)  
@@ -25,11 +30,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-04)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-05)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-04)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-05)
 
 ## Despre
 
@@ -41,4 +46,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 4 august 2026*
+*Actualizat: 5 august 2026*
