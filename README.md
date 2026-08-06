@@ -6,11 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Miercuri, 5 august
-
-- `20:15` [MIDWEEK RUN #13](https://lu.ma/gvfvl9kg)  
-  <sub>Hot Girl Run Club · 8 participanți</sub>
-
 ### Joi, 6 august
 
 - `19:30` [ETHCluj Chill & Chat Community Hangout #30](https://lu.ma/pko9dgfd)  
@@ -19,22 +14,27 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Duminică, 9 august
 
 - `09:00` [Tura de duminică Cluj](https://lu.ma/2d27yxqk)  
-  <sub>Andrei Catinas</sub>
+  <sub>Andrei Catinas · 1 participant</sub>
 
 ### Duminică, 16 august
 
 - `09:00` [Tura de duminică Cluj](https://lu.ma/3z7pabo7)  
   <sub>Andrei Catinas</sub>
 
+### Marți, 18 august
+
+- `19:00` [Cluj Tech Mixer: 2nd Edition](https://lu.ma/tb022bqq)  
+  <sub>Neo Mixers by ▲promocrat · 3 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-05)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-06)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-05)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-06)
 
 ## Despre
 
@@ -46,4 +46,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 5 august 2026*
+*Actualizat: 6 august 2026*
