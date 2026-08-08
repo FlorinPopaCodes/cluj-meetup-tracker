@@ -6,15 +6,10 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Vineri, 7 august
-
-- `12:30` [Pulsar Money // Coffee Meetup in Cluj-Napoca](https://lu.ma/975uujpz)  
-  <sub>Pulsar Money · 3 participanți</sub>
-
 ### Duminică, 9 august
 
 - `09:00` [Tura de duminică Cluj](https://lu.ma/2d27yxqk)  
-  <sub>Andrei Catinas · 2 participanți</sub>
+  <sub>Andrei Catinas · 3 participanți</sub>
 
 ### Duminică, 16 august
 
@@ -24,17 +19,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Marți, 18 august
 
 - `19:00` [Cluj Tech Mixer: 2nd Edition](https://lu.ma/tb022bqq)  
-  <sub>Neo Mixers by ▲promocrat · 3 participanți</sub>
+  <sub>Neo Mixers by ▲promocrat · 4 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-07)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-08)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-07)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-08)
 
 ## Despre
 
@@ -46,4 +41,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 7 august 2026*
+*Actualizat: 8 august 2026*
