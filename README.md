@@ -14,17 +14,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Marți, 18 august
 
 - `19:00` [Cluj Tech Mixer: 2nd Edition](https://lu.ma/tb022bqq)  
-  <sub>Neo Mixers by ▲promocrat · 12 participanți</sub>
+  <sub>Sandra Ehigiator · 12 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-13)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-14)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-13)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-14)
 
 ## Despre
 
@@ -36,4 +36,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 13 august 2026*
+*Actualizat: 14 august 2026*
