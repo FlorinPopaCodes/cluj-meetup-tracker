@@ -6,25 +6,30 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Duminică, 16 august
-
-- `09:00` [Tura de duminică Cluj](https://lu.ma/3z7pabo7)  
-  <sub>Andrei Catinas · 8 participanți</sub>
-
 ### Marți, 18 august
 
 - `19:00` [Cluj Tech Mixer: 2nd Edition](https://lu.ma/tb022bqq)  
   <sub>Sandra Ehigiator · 12 participanți</sub>
 
+### Duminică, 23 august
+
+- `09:00` [Tura de duminică Cluj](https://lu.ma/qrwmj1k1)  
+  <sub>Andrei Catinas</sub>
+
+### Duminică, 30 august
+
+- `09:00` [Tura de duminică Cluj](https://lu.ma/pue5avq5)  
+  <sub>Andrei Catinas</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-16)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-17)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-16)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-17)
 
 ## Despre
 
@@ -36,4 +41,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 16 august 2026*
+*Actualizat: 17 august 2026*
