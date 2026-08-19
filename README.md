@@ -6,11 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Marți, 18 august
-
-- `19:00` [Cluj Tech Mixer: 2nd Edition](https://lu.ma/tb022bqq)  
-  <sub>Sandra Ehigiator · 12 participanți</sub>
-
 ### Duminică, 23 august
 
 - `09:00` [Tura de duminică Cluj](https://lu.ma/qrwmj1k1)  
@@ -25,11 +20,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-18)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-19)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-18)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-19)
 
 ## Despre
 
@@ -41,4 +36,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 18 august 2026*
+*Actualizat: 19 august 2026*
