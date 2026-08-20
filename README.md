@@ -16,15 +16,20 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `09:00` [Tura de duminică Cluj](https://lu.ma/pue5avq5)  
   <sub>Andrei Catinas</sub>
 
+### Joi, 3 septembrie
+
+- `19:30` [ETHCluj Chill & Chat Community Hangout #31](https://lu.ma/lfgvomw0)  
+  <sub>ETHCluj · 3 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-19)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-20)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-19)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-20)
 
 ## Despre
 
@@ -36,4 +41,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 19 august 2026*
+*Actualizat: 20 august 2026*
