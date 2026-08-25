@@ -9,7 +9,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Miercuri, 26 august
 
 - `19:30` [MIXED RUN w/ A NYC TWIST 🗽](https://lu.ma/t5fkh4fb)  
-  <sub>Hot Girl Run Club · 101 de participanți</sub>
+  <sub>Hot Girl Run Club · 104 de participanți</sub>
 
 ### Duminică, 30 august
 
@@ -25,11 +25,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-24)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-25)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-24)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-25)
 
 ## Despre
 
@@ -41,4 +41,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 24 august 2026*
+*Actualizat: 25 august 2026*
