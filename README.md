@@ -6,11 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Miercuri, 26 august
-
-- `19:30` [MIXED RUN w/ A NYC TWIST 🗽](https://lu.ma/t5fkh4fb)  
-  <sub>Hot Girl Run Club · 104 de participanți</sub>
-
 ### Sâmbătă, 29 august
 
 - `10:00` [FOREST Day RETREAT](https://lu.ma/8h25as1v)  
@@ -19,7 +14,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Duminică, 30 august
 
 - `09:00` [Tura de duminică Cluj](https://lu.ma/pue5avq5)  
-  <sub>Andrei Catinas · 2 participanți</sub>
+  <sub>Andrei Catinas · 3 participanți</sub>
 
 ### Joi, 3 septembrie
 
@@ -30,11 +25,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-26)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-27)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-26)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-27)
 
 ## Despre
 
@@ -46,4 +41,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 26 august 2026*
+*Actualizat: 27 august 2026*
