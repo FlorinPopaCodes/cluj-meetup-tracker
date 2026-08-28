@@ -14,22 +14,32 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Duminică, 30 august
 
 - `09:00` [Tura de duminică Cluj](https://lu.ma/pue5avq5)  
-  <sub>Andrei Catinas · 3 participanți</sub>
+  <sub>Andrei Catinas · 6 participanți</sub>
 
 ### Joi, 3 septembrie
 
 - `19:30` [ETHCluj Chill & Chat Community Hangout #31](https://lu.ma/lfgvomw0)  
-  <sub>ETHCluj · 3 participanți</sub>
+  <sub>ETHCluj · 4 participanți</sub>
+
+### Duminică, 6 septembrie
+
+- `10:00` [Tura de duminică Cluj](https://lu.ma/k2rze8hp)  
+  <sub>Andrei Catinas · 1 participant</sub>
+
+### Vineri, 11 septembrie
+
+- `19:00` [MENtalks UNFILTERED CLUJ: VULNERABILITATEA FĂRĂ FILTRU CU REMUS RANCA](https://lu.ma/mirogdqp)  
+  <sub>MENtalks · 26 de participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-27)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-28)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-27)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-28)
 
 ## Despre
 
@@ -41,4 +51,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 27 august 2026*
+*Actualizat: 28 august 2026*
