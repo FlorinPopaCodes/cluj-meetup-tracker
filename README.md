@@ -6,11 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 29 august
-
-- `10:00` [FOREST Day RETREAT](https://lu.ma/8h25as1v)  
-  <sub>Criste Irina Raluca · Florești, Romania</sub>
-
 ### Duminică, 30 august
 
 - `09:00` [Tura de duminică Cluj](https://lu.ma/pue5avq5)  
@@ -31,15 +26,20 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `19:00` [MENtalks UNFILTERED CLUJ: VULNERABILITATEA FĂRĂ FILTRU CU REMUS RANCA](https://lu.ma/mirogdqp)  
   <sub>MENtalks · 26 de participanți</sub>
 
+### Duminică, 13 septembrie
+
+- `10:00` [Tura de duminică Cluj](https://lu.ma/e96qdw04)  
+  <sub>Andrei Catinas · 1 participant</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-29)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-08-30)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-29)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-08-30)
 
 ## Despre
 
@@ -51,4 +51,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 29 august 2026*
+*Actualizat: 30 august 2026*
