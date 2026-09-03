@@ -6,15 +6,10 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Miercuri, 2 septembrie
-
-- `19:00` [MIDWEEK RUN #14](https://lu.ma/oqzw39hh)  
-  <sub>Hot Girl Run Club · 23 de participanți</sub>
-
 ### Joi, 3 septembrie
 
 - `19:30` [ETHCluj Chill & Chat Community Hangout #31](https://lu.ma/lfgvomw0)  
-  <sub>ETHCluj · 5 participanți</sub>
+  <sub>ETHCluj · 6 participanți</sub>
 
 ### Duminică, 6 septembrie
 
@@ -23,8 +18,8 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Vineri, 11 septembrie
 
-- `19:00` [MENtalks UNFILTERED CLUJ: VULNERABILITATEA FĂRĂ FILTRU CU REMUS RANCA](https://lu.ma/mirogdqp)  
-  <sub>MENtalks · 32 de participanți</sub>
+- `19:00` [MENtalks UNFILTERED CLUJ: VULNERABILITATE & BRAND PERSONAL](https://lu.ma/mirogdqp)  
+  <sub>MENtalks · 35 de participanți</sub>
 
 ### Duminică, 13 septembrie
 
@@ -37,11 +32,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-02)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-03)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-02)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-03)
 
 ## Despre
 
@@ -53,4 +48,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 2 septembrie 2026*
+*Actualizat: 3 septembrie 2026*
