@@ -9,7 +9,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Duminică, 6 septembrie
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/k2rze8hp)  
-  <sub>Andrei Catinas · 3 participanți</sub>
+  <sub>Andrei Catinas · 4 participanți</sub>
 
 ### Vineri, 11 septembrie
 
@@ -21,17 +21,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `10:00` [Tura de duminică Cluj](https://lu.ma/e96qdw04)  
   <sub>Andrei Catinas · 1 participant</sub>
 - `16:00` [Creators.HangOuts: Human2Human Networking](https://lu.ma/3vwsx6dm)  
-  <sub>Andreea Chiuaru · 3 participanți</sub>
+  <sub>Andreea Chiuaru · 6 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-04)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-05)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-04)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-05)
 
 ## Despre
 
@@ -43,4 +43,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 4 septembrie 2026*
+*Actualizat: 5 septembrie 2026*
