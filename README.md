@@ -9,19 +9,19 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Vineri, 11 septembrie
 
 - `19:00` [MENtalks UNFILTERED CLUJ: VULNERABILITATE & BRAND PERSONAL](https://lu.ma/mirogdqp)  
-  <sub>MENtalks · 43 de participanți</sub>
+  <sub>MENtalks · 50 de participanți</sub>
 
 ### Duminică, 13 septembrie
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/e96qdw04)  
   <sub>Andrei Catinas · 1 participant</sub>
 - `16:00` [Creators.HangOuts: Human2Human Networking](https://lu.ma/3vwsx6dm)  
-  <sub>Andreea Chiuaru · 8 participanți</sub>
+  <sub>Andreea Chiuaru · 10 participanți</sub>
 
 ### Miercuri, 16 septembrie
 
 - `19:00` [Proiecție de film & discuție: La La Land (r. Damien Chazelle)](https://lu.ma/6azha1ad)  
-  <sub>Centrul de Cultura Urbana · 13 participanți</sub>
+  <sub>Centrul de Cultura Urbana · 32 de participanți</sub>
 
 ### Duminică, 20 septembrie
 
@@ -32,11 +32,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-07)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-08)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-07)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-08)
 
 ## Despre
 
@@ -48,4 +48,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 7 septembrie 2026*
+*Actualizat: 8 septembrie 2026*
