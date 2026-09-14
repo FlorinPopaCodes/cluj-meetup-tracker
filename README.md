@@ -6,17 +6,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Duminică, 13 septembrie
-
-- `10:00` [Tura de duminică Cluj](https://lu.ma/e96qdw04)  
-  <sub>Andrei Catinas · 5 participanți</sub>
-- `16:00` [Creators.HangOuts: Human2Human Networking](https://lu.ma/3vwsx6dm)  
-  <sub>Andreea Chiuaru · 18 participanți</sub>
-
 ### Miercuri, 16 septembrie
 
 - `19:00` [Proiecție de film & discuție: La La Land (r. Damien Chazelle)](https://lu.ma/6azha1ad)  
-  <sub>Centrul de Cultura Urbana · 106 de participanți</sub>
+  <sub>Centrul de Cultura Urbana · 126 de participanți</sub>
+- `19:00` [YIN YANG SUNSET YOGA](https://lu.ma/37d2yqbo)  
+  <sub>Pop Iulia · 10 participanți</sub>
+
+### Sâmbătă, 19 septembrie
+
+- `10:00` [RUNITY x BASE](https://lu.ma/tm0n8ibn)  
+  <sub>Runity Run Club · 25 de participanți</sub>
 
 ### Duminică, 20 septembrie
 
@@ -26,7 +26,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Marți, 22 septembrie
 
 - `19:00` [Cluj Tech Mixer: 2nd Edition](https://lu.ma/tb022bqq)  
-  <sub>neomixer by ▲promocrat · 16 participanți</sub>
+  <sub>neomixer by ▲promocrat · 19 participanți</sub>
 
 ### Duminică, 27 septembrie
 
@@ -37,11 +37,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-13)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-14)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-13)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-14)
 
 ## Despre
 
@@ -53,4 +53,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 13 septembrie 2026*
+*Actualizat: 14 septembrie 2026*
