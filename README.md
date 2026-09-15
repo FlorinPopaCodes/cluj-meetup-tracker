@@ -9,14 +9,19 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Miercuri, 16 septembrie
 
 - `19:00` [Proiecție de film & discuție: La La Land (r. Damien Chazelle)](https://lu.ma/6azha1ad)  
-  <sub>Centrul de Cultura Urbana · 126 de participanți</sub>
+  <sub>Centrul de Cultura Urbana · 141 de participanți</sub>
 - `19:00` [YIN YANG SUNSET YOGA](https://lu.ma/37d2yqbo)  
-  <sub>Pop Iulia · 10 participanți</sub>
+  <sub>Pop Iulia · 11 participanți</sub>
+
+### Joi, 17 septembrie
+
+- `18:00` [TMM IRL: Cluj Napoca](https://lu.ma/nufsef0c)  
+  <sub>The Marketing Meetup :)</sub>
 
 ### Sâmbătă, 19 septembrie
 
 - `10:00` [RUNITY x BASE](https://lu.ma/tm0n8ibn)  
-  <sub>Runity Run Club · 25 de participanți</sub>
+  <sub>Runity Run Club · 40 de participanți</sub>
 
 ### Duminică, 20 septembrie
 
@@ -28,20 +33,30 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `19:00` [Cluj Tech Mixer: 2nd Edition](https://lu.ma/tb022bqq)  
   <sub>neomixer by ▲promocrat · 19 participanți</sub>
 
+### Miercuri, 23 septembrie
+
+- `18:00` [Local Hub Cluj-Napoca: L&D Shakers: Back in the Mix 🧪Reconnect. Share. Shape what’s next.](https://lu.ma/ryztnnsc)  
+  <sub>L&D SHAKERS · 8 participanți</sub>
+
 ### Duminică, 27 septembrie
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/fc2wg0gt)  
   <sub>Andrei Catinas · 1 participant</sub>
 
+### Marți, 29 septembrie
+
+- `19:00` [Human2human Networking: #WorkInProgress Edition (Open to anyone)](https://lu.ma/pojqhrzo)  
+  <sub>Andreea Chiuaru</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-14)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-15)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-14)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-15)
 
 ## Despre
 
@@ -53,4 +68,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 14 septembrie 2026*
+*Actualizat: 15 septembrie 2026*
