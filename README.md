@@ -6,11 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Joi, 17 septembrie
-
-- `18:00` [TMM IRL: Cluj Napoca](https://lu.ma/nufsef0c)  
-  <sub>The Marketing Meetup :)</sub>
-
 ### Sâmbătă, 19 septembrie
 
 - `10:00` [RUNITY x BASE](https://lu.ma/tm0n8ibn)  
@@ -50,11 +45,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-17)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-18)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-17)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-18)
 
 ## Despre
 
@@ -66,4 +61,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 17 septembrie 2026*
+*Actualizat: 18 septembrie 2026*
