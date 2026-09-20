@@ -6,11 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 19 septembrie
-
-- `10:00` [RUNITY x BASE](https://lu.ma/tm0n8ibn)  
-  <sub>Runity Run Club · 40 de participanți</sub>
-
 ### Duminică, 20 septembrie
 
 - `10:00` [Sunday Track](https://lu.ma/152pgash)  
@@ -21,12 +16,12 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Marți, 22 septembrie
 
 - `19:00` [Cluj Tech Mixer: 2nd Edition](https://lu.ma/tb022bqq)  
-  <sub>neomixer by ▲promocrat · 22 de participanți</sub>
+  <sub>neomixer by ▲promocrat · 31 de participanți</sub>
 
 ### Miercuri, 23 septembrie
 
 - `18:00` [Local Hub Cluj-Napoca: L&D Shakers: Back in the Mix 🧪Reconnect. Share. Shape what’s next.](https://lu.ma/ryztnnsc)  
-  <sub>L&D SHAKERS · 13 participanți</sub>
+  <sub>L&D SHAKERS · 15 participanți</sub>
 
 ### Duminică, 27 septembrie
 
@@ -47,11 +42,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-19)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-20)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-19)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-20)
 
 ## Despre
 
@@ -63,4 +58,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 19 septembrie 2026*
+*Actualizat: 20 septembrie 2026*
