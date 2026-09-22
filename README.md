@@ -9,12 +9,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Marți, 22 septembrie
 
 - `19:00` [Cluj Tech Mixer: 2nd Edition](https://lu.ma/tb022bqq)  
-  <sub>neomixer by ▲promocrat · 34 de participanți</sub>
+  <sub>neomixer by ▲promocrat · 39 de participanți</sub>
 
 ### Miercuri, 23 septembrie
 
 - `18:00` [Local Hub Cluj-Napoca: L&D Shakers: Back in the Mix 🧪Reconnect. Share. Shape what’s next.](https://lu.ma/ryztnnsc)  
   <sub>L&D SHAKERS · 16 participanți</sub>
+
+### Joi, 24 septembrie
+
+- `19:00` [Creators Dinners \| Tema Ediției: In a complicated relationship with AI (members only)](https://lu.ma/dhakjwxj)  
+  <sub>Andreea Chiuaru</sub>
 
 ### Duminică, 27 septembrie
 
@@ -35,11 +40,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-21)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-22)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-21)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-22)
 
 ## Despre
 
@@ -51,4 +56,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 21 septembrie 2026*
+*Actualizat: 22 septembrie 2026*
