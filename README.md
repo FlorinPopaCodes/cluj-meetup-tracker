@@ -6,11 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Miercuri, 23 septembrie
-
-- `18:00` [Local Hub Cluj-Napoca: L&D Shakers: Back in the Mix 🧪Reconnect. Share. Shape what’s next.](https://lu.ma/ryztnnsc)  
-  <sub>L&D SHAKERS · 19 participanți</sub>
-
 ### Joi, 24 septembrie
 
 - `19:00` [Creators Dinners \| Tema Ediției: In a complicated relationship with AI (members only)](https://lu.ma/dhakjwxj)  
@@ -35,11 +30,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-23)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-24)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-23)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-24)
 
 ## Despre
 
@@ -51,4 +46,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 23 septembrie 2026*
+*Actualizat: 24 septembrie 2026*
