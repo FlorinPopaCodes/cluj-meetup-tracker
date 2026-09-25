@@ -6,15 +6,10 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Joi, 24 septembrie
-
-- `19:00` [Creators Dinners \| Tema Ediției: In a complicated relationship with AI (members only)](https://lu.ma/dhakjwxj)  
-  <sub>Andreea Chiuaru</sub>
-
 ### Duminică, 27 septembrie
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/fc2wg0gt)  
-  <sub>Andrei Catinas · 1 participant</sub>
+  <sub>Andrei Catinas · 2 participanți</sub>
 
 ### Marți, 29 septembrie
 
@@ -26,15 +21,20 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `19:30` [ETHCluj Chill & Chat Community Hangout #32](https://lu.ma/ihurjhu1)  
   <sub>ETHCluj · 6 participanți</sub>
 
+### Duminică, 4 octombrie
+
+- `10:00` [Tura de duminică Cluj](https://lu.ma/f82g09h0)  
+  <sub>Andrei Catinas · 1 participant</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-24)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-25)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-24)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-25)
 
 ## Despre
 
@@ -46,4 +46,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 24 septembrie 2026*
+*Actualizat: 25 septembrie 2026*
