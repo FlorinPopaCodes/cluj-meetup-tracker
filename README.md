@@ -9,7 +9,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Duminică, 27 septembrie
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/fc2wg0gt)  
-  <sub>Andrei Catinas · 2 participanți</sub>
+  <sub>Andrei Catinas · 3 participanți</sub>
 
 ### Marți, 29 septembrie
 
@@ -30,11 +30,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-25)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-26)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-25)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-26)
 
 ## Despre
 
@@ -46,4 +46,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 25 septembrie 2026*
+*Actualizat: 26 septembrie 2026*
