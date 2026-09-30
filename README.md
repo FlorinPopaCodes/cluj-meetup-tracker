@@ -6,12 +6,10 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Marți, 29 septembrie
+### Miercuri, 30 septembrie
 
-- `19:00` [Human2human Networking: #WorkInProgress Edition (Open to anyone)](https://lu.ma/pojqhrzo)  
-  <sub>Andreea Chiuaru</sub>
 - `19:00` [MIDWEEK RUN #15](https://lu.ma/73935shx)  
-  <sub>Hot Girl Run Club · 16 participanți</sub>
+  <sub>Hot Girl Run Club · 24 de participanți</sub>
 
 ### Joi, 1 octombrie
 
@@ -32,11 +30,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-29)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-30)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-29)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-30)
 
 ## Despre
 
@@ -48,4 +46,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 29 septembrie 2026*
+*Actualizat: 30 septembrie 2026*
