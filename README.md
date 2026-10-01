@@ -6,11 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Miercuri, 30 septembrie
-
-- `19:00` [MIDWEEK RUN #15](https://lu.ma/73935shx)  
-  <sub>Hot Girl Run Club · 24 de participanți</sub>
-
 ### Joi, 1 octombrie
 
 - `19:30` [ETHCluj Chill & Chat Community Hangout #32](https://lu.ma/ihurjhu1)  
@@ -30,11 +25,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-09-30)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-01)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-09-30)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-01)
 
 ## Despre
 
@@ -46,4 +41,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 30 septembrie 2026*
+*Actualizat: 1 octombrie 2026*
