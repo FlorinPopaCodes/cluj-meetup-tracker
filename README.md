@@ -13,6 +13,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `10:00` [Tura de duminică Cluj](https://lu.ma/f82g09h0)  
   <sub>Andrei Catinas · 3 participanți</sub>
 
+### Vineri, 9 octombrie
+
+- `16:00` [build fridays cluj - work on your startup alongside others (bring laptop)](https://lu.ma/wjw50s8t)  
+  <sub>Schipor Vasile · 5 participanți</sub>
+
 ### Duminică, 11 octombrie
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/s88vr12v)  
@@ -21,22 +26,27 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Miercuri, 14 octombrie
 
 - `19:00` [Proiecție de film & discuție: Singin' in the Rain (r. Gene Kelly, Stanley Donen)](https://lu.ma/at64u436)  
-  <sub>Centrul de Cultura Urbana · 14 participanți</sub>
+  <sub>Centrul de Cultura Urbana · 16 participanți</sub>
 
 ### Vineri, 16 octombrie
 
 - `18:00` [Arcade Game Jam](https://lu.ma/q8by929z)  
-  <sub>TAGAP · 10 participanți</sub>
+  <sub>TAGAP · 13 participanți</sub>
+
+### Duminică, 18 octombrie
+
+- `10:00` [Tura de duminică Cluj](https://lu.ma/eebdzx3s)  
+  <sub>Andrei Catinas · 1 participant</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-03)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-04)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-03)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-04)
 
 ## Despre
 
@@ -48,4 +58,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 3 octombrie 2026*
+*Actualizat: 4 octombrie 2026*
