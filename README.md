@@ -9,7 +9,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Miercuri, 7 octombrie
 
 - `19:00` [Midweek Run #16](https://lu.ma/hsdv15fv)  
-  <sub>Patricia Zavacky · 5 participanți</sub>
+  <sub>Patricia Zavacky · 16 participanți</sub>
 
 ### Vineri, 9 octombrie
 
@@ -24,7 +24,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Miercuri, 14 octombrie
 
 - `19:00` [Proiecție de film & discuție: Singin' in the Rain (r. Gene Kelly, Stanley Donen)](https://lu.ma/at64u436)  
-  <sub>Centrul de Cultura Urbana · 31 de participanți</sub>
+  <sub>Centrul de Cultura Urbana · 44 de participanți</sub>
 
 ### Vineri, 16 octombrie
 
@@ -45,11 +45,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-06)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-07)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-06)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-07)
 
 ## Despre
 
@@ -61,4 +61,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 6 octombrie 2026*
+*Actualizat: 7 octombrie 2026*
