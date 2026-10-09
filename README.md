@@ -9,7 +9,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Vineri, 9 octombrie
 
 - `16:00` [build fridays cluj - work on your startup alongside others (bring laptop)](https://lu.ma/wjw50s8t)  
-  <sub>Schipor Vasile · 10 participanți</sub>
+  <sub>Schipor Vasile · 11 participanți</sub>
 
 ### Sâmbătă, 10 octombrie
 
@@ -24,7 +24,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Miercuri, 14 octombrie
 
 - `19:00` [Proiecție de film & discuție: Singin' in the Rain (r. Gene Kelly, Stanley Donen)](https://lu.ma/at64u436)  
-  <sub>Centrul de Cultura Urbana · 44 de participanți</sub>
+  <sub>Centrul de Cultura Urbana · 46 de participanți</sub>
 
 ### Joi, 15 octombrie
 
@@ -34,7 +34,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Vineri, 16 octombrie
 
 - `18:00` [Arcade Game Jam](https://lu.ma/q8by929z)  
-  <sub>TAGAP · 16 participanți</sub>
+  <sub>TAGAP · 17 participanți</sub>
 
 ### Duminică, 18 octombrie
 
@@ -50,11 +50,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-08)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-09)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-08)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-09)
 
 ## Despre
 
@@ -66,4 +66,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 8 octombrie 2026*
+*Actualizat: 9 octombrie 2026*

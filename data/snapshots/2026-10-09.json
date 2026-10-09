@@ -1,0 +1,3607 @@
+{
+  "geo": [
+    {
+      "api_id": "evt-IrXLgbRfCpU8PqO",
+      "event": {
+        "api_id": "evt-IrXLgbRfCpU8PqO",
+        "calendar_api_id": "cal-W7N51nFcd0IF4Up",
+        "end_at": "2026-10-09T19:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "build fridays cluj - work on your startup alongside others (bring laptop)",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/72/e9e92678-2f7e-4793-afc5-a902c282837c.png",
+        "start_at": "2026-10-09T13:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "wjw50s8t",
+        "user_api_id": "usr-m99F44Bc25Bekua",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Cluj-Napoca",
+          "type": "google",
+          "region": "Județul Cluj",
+          "address": "Founders Hive",
+          "country": "Romania",
+          "place_id": "ChIJu3-xcQANSUcRMtmxui2ZafM",
+          "localized": {
+            "ro": {
+              "city": "Cluj-Napoca",
+              "region": "Județul Cluj",
+              "address": "Founders Hive",
+              "country": "România",
+              "city_state": "Cluj-Napoca, România",
+              "sublocality": "Mărăști",
+              "full_address": "Founders Hive, Strada 13 Septembrie 12a, 400394 Cluj-Napoca, România",
+              "region_short": "CJ",
+              "short_address": "Strada 13 Septembrie 12a, Cluj-Napoca"
+            }
+          },
+          "city_state": "Cluj-Napoca, Romania",
+          "description": "",
+          "sublocality": "Mărăști",
+          "country_code": "RO",
+          "full_address": "Founders Hive, Strada 13 Septembrie 12a, 400394 Cluj-Napoca, Romania",
+          "region_short": "CJ",
+          "short_address": "Strada 13 Septembrie 12a, Cluj-Napoca",
+          "apple_maps_place_id": "IC0214FEB2DB2D506",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 23.6008468,
+          "latitude": 46.7757308
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-W7N51nFcd0IF4Up",
+        "coordinate": null,
+        "description_short": "a global community of builders/founders & AI enthusiasts. whether you're a founder, a coder, a curious designer, or just interested in tech - we're all coming together to explore, create & innovate",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "AI BEAVERS",
+        "personal_user_api_id": null,
+        "slug": "ai_beavers",
+        "start_date": null,
+        "website": "https://ai-beavers.com",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-09T13:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-m99F44Bc25Bekua",
+          "name": "Schipor Vasile",
+          "username": null
+        },
+        {
+          "api_id": "usr-7p52FuQTaVIUJS2",
+          "name": "AI BEAVERS",
+          "username": "ai_beavers"
+        }
+      ],
+      "guest_count": 11,
+      "ticket_count": 11,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-TEaivG9QUmHTz2m",
+      "event": {
+        "api_id": "evt-TEaivG9QUmHTz2m",
+        "calendar_api_id": "cal-zxU68kasMD1llgL",
+        "end_at": "2026-10-10T11:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "ATELIER DE CIOCOLATA",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/n4/7b15785a-30ef-4e45-830a-e3919103cda3.png",
+        "start_at": "2026-10-10T09:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "yj8yxolk",
+        "user_api_id": "usr-AtPn5Vqy4CDq37y",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Florești",
+          "type": "google",
+          "region": "Județul Cluj",
+          "address": "Christe Forest Retreat",
+          "country": "Romania",
+          "place_id": "ChIJEYhv71wRSUcRGNm7DjVQtfM",
+          "localized": {
+            "ro": {
+              "city": "Florești",
+              "region": "Județul Cluj",
+              "address": "Christe Forest Retreat",
+              "country": "România",
+              "city_state": "Florești, România",
+              "sublocality": null,
+              "full_address": "Christe Forest Retreat, Valea Sănaslăului 52, 407280 Florești, România",
+              "region_short": "CJ",
+              "short_address": "Valea Sănaslăului 52, Florești"
+            }
+          },
+          "city_state": "Florești, Romania",
+          "description": "",
+          "sublocality": null,
+          "country_code": "RO",
+          "full_address": "Christe Forest Retreat, Valea Sănaslăului 52, 407280 Florești, Romania",
+          "region_short": "CJ",
+          "short_address": "Valea Sănaslăului 52, Florești",
+          "place_coordinate": {
+            "latitude": 46.7222258,
+            "longitude": 23.4790022
+          },
+          "apple_maps_place_id": "I1D4DFB9590610F87",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 23.4790022,
+          "latitude": 46.7222258
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-zxU68kasMD1llgL",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-AtPn5Vqy4CDq37y",
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-AtPn5Vqy4CDq37y",
+          "name": "Criste Irina Raluca",
+          "username": "christeretreat"
+        },
+        "timezone": null
+      },
+      "start_at": "2026-10-10T09:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-AtPn5Vqy4CDq37y",
+          "name": "Criste Irina Raluca",
+          "username": "christeretreat"
+        }
+      ],
+      "guest_count": 6,
+      "ticket_count": 6,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-BclBsAaaPe5Kr5j",
+      "event": {
+        "api_id": "evt-BclBsAaaPe5Kr5j",
+        "calendar_api_id": "cal-kxJFQyPXMa4Z8NM",
+        "end_at": "2026-10-14T18:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Proiecție de film & discuție: Singin' in the Rain (r. Gene Kelly, Stanley Donen)",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/rp/9f49f147-44da-4d96-8c4a-2eb9566bb508.png",
+        "start_at": "2026-10-14T16:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "at64u436",
+        "user_api_id": "usr-uL6aRWwD1g3I0UP",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Cluj-Napoca",
+          "type": "google",
+          "region": "Județul Cluj",
+          "address": "Mărăști Cinema",
+          "country": "Romania",
+          "place_id": "ChIJDfy37RAMSUcRrb7RwG1p9gk",
+          "localized": {
+            "ro": {
+              "city": "Cluj-Napoca",
+              "region": "Județul Cluj",
+              "address": "Cinema Mărăști",
+              "country": "România",
+              "city_state": "Cluj-Napoca, România",
+              "sublocality": "Mărăști",
+              "full_address": "Cinema Mărăști, Strada Aurel Vlaicu 3A, 400612 Cluj-Napoca, România",
+              "region_short": "CJ",
+              "short_address": "Strada Aurel Vlaicu 3A, Cluj-Napoca"
+            }
+          },
+          "city_state": "Cluj-Napoca, Romania",
+          "description": "",
+          "sublocality": "Mărăști",
+          "country_code": "RO",
+          "full_address": "Mărăști Cinema, Strada Aurel Vlaicu 3A, 400612 Cluj-Napoca, Romania",
+          "region_short": "CJ",
+          "short_address": "Strada Aurel Vlaicu 3A, Cluj-Napoca",
+          "place_coordinate": {
+            "latitude": 46.7793736,
+            "longitude": 23.617370299999997
+          },
+          "apple_maps_place_id": "I9FECFEE2AF22FDB9",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 23.617370299999997,
+          "latitude": 46.7793736
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-kxJFQyPXMa4Z8NM",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-uL6aRWwD1g3I0UP",
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-uL6aRWwD1g3I0UP",
+          "name": "Centrul de Cultura Urbana",
+          "username": "culturaurbana"
+        },
+        "timezone": null
+      },
+      "start_at": "2026-10-14T16:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-uL6aRWwD1g3I0UP",
+          "name": "Centrul de Cultura Urbana",
+          "username": "culturaurbana"
+        }
+      ],
+      "guest_count": 46,
+      "ticket_count": 46,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-CUDbECefmqU7geb",
+      "event": {
+        "api_id": "evt-CUDbECefmqU7geb",
+        "calendar_api_id": "cal-eUszpbdrfK2HdwO",
+        "end_at": "2026-10-15T17:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "AI Deep Dives",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/33/319dd9fd-9f83-4215-85f3-c15b34a150b3.png",
+        "start_at": "2026-10-15T15:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "w1ikg1sl",
+        "user_api_id": "usr-GNupHPYhjTUUpw7",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "mode": "obfuscated",
+          "city": "Cluj-Napoca",
+          "city_state": "Cluj-Napoca, Romania",
+          "sublocality": "Mărăști",
+          "country": "Romania",
+          "country_code": "RO",
+          "region": "Județul Cluj",
+          "region_short": "CJ"
+        },
+        "geo_address_visibility": "guests-only",
+        "coordinate": {
+          "latitude": 46.782498479729625,
+          "longitude": 23.606863444638684
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-eUszpbdrfK2HdwO",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-GNupHPYhjTUUpw7",
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-GNupHPYhjTUUpw7",
+          "name": "AI Deep Dives",
+          "username": "AIDeepDives"
+        },
+        "timezone": null
+      },
+      "start_at": "2026-10-15T15:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-GNupHPYhjTUUpw7",
+          "name": "AI Deep Dives",
+          "username": "AIDeepDives"
+        }
+      ],
+      "guest_count": 3,
+      "ticket_count": 3,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-fYumaGGHPtiNAS3",
+      "event": {
+        "api_id": "evt-fYumaGGHPtiNAS3",
+        "calendar_api_id": "cal-GcYiQ33fDoyZHyY",
+        "end_at": "2026-10-18T15:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Arcade Game Jam",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/gl/c2bfb306-5c0e-4c1e-8f65-972ab3b3248f.png",
+        "start_at": "2026-10-16T15:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "q8by929z",
+        "user_api_id": "usr-mTZ4WNEuswXoABE",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Cluj-Napoca",
+          "type": "google",
+          "region": "Județul Cluj",
+          "address": "Founders Hive",
+          "country": "Romania",
+          "place_id": "ChIJu3-xcQANSUcRMtmxui2ZafM",
+          "localized": {
+            "ro": {
+              "city": "Cluj-Napoca",
+              "region": "Județul Cluj",
+              "address": "Founders Hive",
+              "country": "România",
+              "city_state": "Cluj-Napoca, România",
+              "sublocality": "Mărăști",
+              "full_address": "Founders Hive, Strada 13 Septembrie 12a, 400394 Cluj-Napoca, România",
+              "region_short": "CJ",
+              "short_address": "Strada 13 Septembrie 12a, Cluj-Napoca"
+            }
+          },
+          "city_state": "Cluj-Napoca, Romania",
+          "description": "Enter via Strada 13 Septembrie",
+          "sublocality": "Mărăști",
+          "country_code": "RO",
+          "full_address": "Founders Hive, Strada 13 Septembrie 12a, 400394 Cluj-Napoca, Romania",
+          "region_short": "CJ",
+          "short_address": "Strada 13 Septembrie 12a, Cluj-Napoca",
+          "place_coordinate": {
+            "latitude": 46.7757308,
+            "longitude": 23.6008468
+          },
+          "apple_maps_place_id": "IC0214FEB2DB2D506",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 23.6008468,
+          "latitude": 46.7757308
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-GcYiQ33fDoyZHyY",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-mTZ4WNEuswXoABE",
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-mTZ4WNEuswXoABE",
+          "name": "TAGAP",
+          "username": "TAGAP"
+        },
+        "timezone": null
+      },
+      "start_at": "2026-10-16T15:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-mTZ4WNEuswXoABE",
+          "name": "TAGAP",
+          "username": "TAGAP"
+        }
+      ],
+      "guest_count": 17,
+      "ticket_count": 17,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-LOAn4WcbCoqbMoa",
+      "event": {
+        "api_id": "evt-LOAn4WcbCoqbMoa",
+        "calendar_api_id": "cal-i6safuEqWFPKO7T",
+        "end_at": "2026-10-20T18:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Beyond Borders: How Lean Teams Get International Customers in the Age of AI",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/4k/589b4986-0be0-457f-95d6-b9a115464498.png",
+        "start_at": "2026-10-20T15:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "clzrm2hm",
+        "user_api_id": "usr-Mnr3hR36QmD94oz",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Cluj-Napoca",
+          "type": "google",
+          "region": "Județul Cluj",
+          "address": "ABC Incubator",
+          "country": "Romania",
+          "place_id": "ChIJ4aCKpJUNSUcR7E4Di38nDo0",
+          "localized": {
+            "ro": {
+              "city": "Cluj-Napoca",
+              "region": "Județul Cluj",
+              "address": "ABC Incubator",
+              "country": "România",
+              "city_state": "Cluj-Napoca, Județul Cluj",
+              "sublocality": "Andrei Mureșanu",
+              "full_address": "ABC Incubator, Strada Constantin Brâncuși nr. 55, 57-59, 400458 Cluj-Napoca, România",
+              "short_address": "Strada Constantin Brâncuși nr. 55, 57-59, Cluj-Napoca"
+            },
+            "en-GB": {
+              "city": "Cluj-Napoca",
+              "region": "Județul Cluj",
+              "address": "ABC Incubator",
+              "country": "Romania",
+              "city_state": "Cluj-Napoca, Județul Cluj",
+              "sublocality": "Andrei Mureșanu",
+              "full_address": "ABC Incubator, Strada Constantin Brâncuși nr. 55, 57-59, 400458 Cluj-Napoca, Romania",
+              "short_address": "Strada Constantin Brâncuși nr. 55, 57-59, Cluj-Napoca"
+            }
+          },
+          "city_state": "Cluj-Napoca, Județul Cluj",
+          "description": "5th Floor",
+          "sublocality": "Andrei Mureșanu",
+          "country_code": "RO",
+          "full_address": "ABC Incubator, Strada Constantin Brâncuși nr. 55, 57-59, 400458 Cluj-Napoca, Romania",
+          "short_address": "Strada Constantin Brâncuși nr. 55, 57-59, Cluj-Napoca",
+          "place_coordinate": null,
+          "apple_maps_place_id": "ID91574450AFE54B5",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 23.6051833,
+          "latitude": 46.765554699999996
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-i6safuEqWFPKO7T",
+        "coordinate": {
+          "longitude": -0.12758619999999998,
+          "latitude": 51.5072178
+        },
+        "description_short": "",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "London",
+          "region": "England",
+          "country": "United Kingdom",
+          "place_id": "ChIJdd4hrwug2EcRmSrV3Vo6llI",
+          "timezone": "Europe/London",
+          "localized": {
+            "en-GB": {
+              "city": "London",
+              "region": "England",
+              "country": "United Kingdom"
+            }
+          },
+          "country_code": "GB"
+        },
+        "name": "BeeGlobal",
+        "personal_user_api_id": null,
+        "slug": "beeglobal",
+        "start_date": null,
+        "website": "https://beeglobal.co/",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/London"
+      },
+      "start_at": "2026-10-20T15:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-Mnr3hR36QmD94oz",
+          "name": "Calin Buzan",
+          "username": null
+        },
+        {
+          "api_id": "usr-sOt6JvJUPjemFOv",
+          "name": "Irina Stoicescu",
+          "username": null
+        }
+      ],
+      "guest_count": 25,
+      "ticket_count": 25,
+      "ticket_info": {
+        "price": {
+          "cents": 6000,
+          "currency": "ron",
+          "is_flexible": false
+        },
+        "is_free": false,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": true
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-NAXDdB7hImlvPcU",
+      "event": {
+        "api_id": "evt-NAXDdB7hImlvPcU",
+        "calendar_api_id": "cal-t3VVZHOgrPOYFdQ",
+        "end_at": "2026-11-05T21:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "ETHCluj Chill & Chat Community Hangout #33",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/y7/c0dae763-a199-420e-aaa5-1cbf5e1953f8.png",
+        "start_at": "2026-11-05T17:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "ei27tqun",
+        "user_api_id": "usr-lYPkti7kLQvStiU",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "mode": "obfuscated",
+          "city": "Cluj-Napoca",
+          "city_state": "Cluj-Napoca, Județul Cluj",
+          "sublocality": "Old Town",
+          "country": "Romania",
+          "country_code": "RO",
+          "region": "Județul Cluj"
+        },
+        "geo_address_visibility": "guests-only",
+        "coordinate": {
+          "latitude": 46.77044179623399,
+          "longitude": 23.588795579571617
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-t3VVZHOgrPOYFdQ",
+        "coordinate": {
+          "longitude": 23.623635,
+          "latitude": 46.77121
+        },
+        "description_short": "",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Cluj-Napoca",
+          "region": "Cluj County",
+          "country": "Romania",
+          "place_id": "ChIJiwtskR8MSUcRixQfMxxgvAs",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "Cluj-Napoca",
+              "region": "Județul Cluj",
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "ETHCluj",
+        "personal_user_api_id": null,
+        "slug": "ETHCluj",
+        "start_date": null,
+        "website": "https://www.ethcluj.org/",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-11-05T17:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-lYPkti7kLQvStiU",
+          "name": "ETHCluj",
+          "username": "ETHCluj"
+        }
+      ],
+      "guest_count": 5,
+      "ticket_count": 5,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-PGOLhn6jjoyDOwR",
+      "event": {
+        "api_id": "evt-PGOLhn6jjoyDOwR",
+        "calendar_api_id": "cal-VtsI30zluLgvU4R",
+        "end_at": "2026-11-07T14:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Cluj-Napoca Meetup | Home Assistant Community Day",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/l1/a848986a-a76d-4b3c-9043-3d61124dfc13.png",
+        "start_at": "2026-11-07T09:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "1q5pu4by",
+        "user_api_id": "usr-6X3TLc7MxxqM9G6",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Cluj-Napoca",
+          "type": "google",
+          "region": "Județul Cluj",
+          "address": "Tehnolemn S.C.M.",
+          "country": "Romania",
+          "place_id": "ChIJ1TFy_QgMSUcRTUVx4zxFO2o",
+          "localized": {
+            "ro": {
+              "city": "Cluj-Napoca",
+              "region": "Județul Cluj",
+              "address": "Tehnolemn S.C.M.",
+              "country": "România",
+              "city_state": "Cluj-Napoca, România",
+              "sublocality": "Bulgaria",
+              "full_address": "Tehnolemn S.C.M., Str. Câmpina, 62-64, Cluj-Napoca, Cluj, 400635, 400124 Cluj-Napoca, România",
+              "region_short": "CJ",
+              "short_address": "Str. Câmpina, 62-64, Cluj-Napoca, Cluj, 400635, Cluj-Napoca"
+            },
+            "en-GB": {
+              "city": "Cluj-Napoca",
+              "region": "Județul Cluj",
+              "address": "Tehnolemn S.C.M.",
+              "country": "Romania",
+              "city_state": "Cluj-Napoca, Romania",
+              "sublocality": "Bulgaria, Cluj-Napoca",
+              "full_address": "Tehnolemn S.C.M., Str. Câmpina, 62-64, Cluj-Napoca, Cluj, 400635, 400124 Cluj-Napoca, Romania",
+              "region_short": "CJ",
+              "short_address": "Str. Câmpina, 62-64, Cluj-Napoca, Cluj, 400635, Cluj-Napoca"
+            }
+          },
+          "city_state": "Cluj-Napoca, Romania",
+          "description": "Str. Câmpina 62-64, clădirea Tehnolemn – etajul 2, dreapta, ușa Asociația Smart Home (2nd floor, right – Asociația Smart Home door)",
+          "sublocality": "Bulgaria, Cluj-Napoca",
+          "country_code": "RO",
+          "full_address": "Tehnolemn S.C.M., Str. Câmpina, 62-64, Cluj-Napoca, Cluj, 400635, 400124 Cluj-Napoca, Romania",
+          "region_short": "CJ",
+          "short_address": "Str. Câmpina, 62-64, Cluj-Napoca, Cluj, 400635, Cluj-Napoca",
+          "place_coordinate": {
+            "latitude": 46.7866175,
+            "longitude": 23.6234973
+          },
+          "apple_maps_place_id": "IB8765E597E9FF38B",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 23.6234973,
+          "latitude": 46.7866175
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-VtsI30zluLgvU4R",
+        "coordinate": null,
+        "description_short": null,
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Personal",
+        "personal_user_api_id": "usr-6X3TLc7MxxqM9G6",
+        "slug": null,
+        "start_date": null,
+        "website": null,
+        "is_personal": true,
+        "personal_user": {
+          "api_id": "usr-6X3TLc7MxxqM9G6",
+          "name": "Asociația Smart Home - ASH",
+          "username": null
+        },
+        "timezone": null
+      },
+      "start_at": "2026-11-07T09:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-6X3TLc7MxxqM9G6",
+          "name": "Asociația Smart Home - ASH",
+          "username": null
+        },
+        {
+          "api_id": "usr-evvXFxVw5WlyySX",
+          "name": "Rareș Gorgan",
+          "username": null
+        },
+        {
+          "api_id": "usr-K03hBaXosFCMThk",
+          "name": "Ștefan",
+          "username": null
+        }
+      ],
+      "guest_count": 48,
+      "ticket_count": 48,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    },
+    {
+      "api_id": "evt-ApOFBbZr5nlcZlv",
+      "event": {
+        "api_id": "evt-ApOFBbZr5nlcZlv",
+        "calendar_api_id": "cal-t3VVZHOgrPOYFdQ",
+        "end_at": "2026-12-10T21:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "ETHCluj Chill & Chat Community Hangout #34",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/we/f48f4234-7c1f-4d57-afa7-8e53f854161a.png",
+        "start_at": "2026-12-10T17:30:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "5rvaesrn",
+        "user_api_id": "usr-lYPkti7kLQvStiU",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "mode": "obfuscated",
+          "city": "Cluj-Napoca",
+          "city_state": "Cluj-Napoca, Județul Cluj",
+          "sublocality": "Old Town",
+          "country": "Romania",
+          "country_code": "RO",
+          "region": "Județul Cluj"
+        },
+        "geo_address_visibility": "guests-only",
+        "coordinate": {
+          "latitude": 46.77071697123239,
+          "longitude": 23.58384162302976
+        },
+        "waitlist_enabled": true,
+        "waitlist_status": "enabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-t3VVZHOgrPOYFdQ",
+        "coordinate": {
+          "longitude": 23.623635,
+          "latitude": 46.77121
+        },
+        "description_short": "",
+        "end_date": null,
+        "is_verified": false,
+        "location": {
+          "city": "Cluj-Napoca",
+          "region": "Cluj County",
+          "country": "Romania",
+          "place_id": "ChIJiwtskR8MSUcRixQfMxxgvAs",
+          "timezone": "Europe/Bucharest",
+          "localized": {
+            "ro": {
+              "city": "Cluj-Napoca",
+              "region": "Județul Cluj",
+              "country": "România"
+            }
+          },
+          "country_code": "RO"
+        },
+        "name": "ETHCluj",
+        "personal_user_api_id": null,
+        "slug": "ETHCluj",
+        "start_date": null,
+        "website": "https://www.ethcluj.org/",
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": "Europe/Bucharest"
+      },
+      "start_at": "2026-12-10T17:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-lYPkti7kLQvStiU",
+          "name": "ETHCluj",
+          "username": "ETHCluj"
+        }
+      ],
+      "guest_count": 3,
+      "ticket_count": 3,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null
+    }
+  ],
+  "calendar:turadeduminica": [
+    {
+      "api_id": "calev-3VCAsDbiWIvLPFw",
+      "event": {
+        "api_id": "evt-32pPWbmzc4JgR9v",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-11T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică I.O.R.",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/hd/939a9ca4-8b68-49fc-937d-d091de2082b8.png",
+        "start_at": "2026-10-11T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "iqtc5xx4",
+        "user_api_id": "usr-Ae5XksaorB3dWjB",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Alexandru Ioan Cuza Statuie",
+          "country": "Romania",
+          "place_id": "ChIJI6vF30j_sUARHE1eXV2_RKc",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Alexandru Ioan Cuza Statuie",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Titan",
+              "full_address": "Alexandru Ioan Cuza Statuie, Unnamed Road, București, România",
+              "short_address": "Unnamed Road, București"
+            }
+          },
+          "city_state": "București, București",
+          "description": "",
+          "sublocality": "Titan",
+          "country_code": "RO",
+          "full_address": "Alexandru Ioan Cuza Statuie, Unnamed Road, București, Romania",
+          "short_address": "Unnamed Road, București",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.150153,
+          "latitude": 44.425902
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-11T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-Ae5XksaorB3dWjB",
+          "name": "Irina Tenovici",
+          "username": "irinatenovici"
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 1,
+      "ticket_count": 1,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-6LtztIByWGmXU8H",
+      "event": {
+        "api_id": "evt-AN50AXJTxnzG8DV",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-11T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Herăstrău",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/f8/b0c63765-f63e-4684-9f2b-8a993cf414c4.png",
+        "start_at": "2026-10-11T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "nggr5h3a",
+        "user_api_id": "usr-yomhnvpt5g17mhz",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Statue of Charles De Gaulle",
+          "country": "Romania",
+          "place_id": "ChIJ3QTW6BECskARp5Y5jlub2ok",
+          "city_state": "București, București",
+          "description": "",
+          "country_code": "RO",
+          "full_address": "Statue of Charles De Gaulle, Piața Charles de Gaulle 3, București, Romania",
+          "place_coordinate": null,
+          "apple_maps_place_id": "I5B5C74F2088B28AA",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.08572,
+          "latitude": 44.46699
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-11T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 2,
+      "ticket_count": 2,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-DECeUN49b1s8wLx",
+      "event": {
+        "api_id": "evt-9Kjh2ZheCo68T1S",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-11T09:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de Duminică Constanța",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/7i/8abb9fdc-677a-4a94-b2d0-f94579a7a9a9.png",
+        "start_at": "2026-10-11T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "bv5gngnc",
+        "user_api_id": "usr-oxdboDH8wFbsuFh",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Constanța",
+          "type": "google",
+          "region": "Județul Constanța",
+          "address": "City Park Mall",
+          "country": "Romania",
+          "place_id": "ChIJ1dK7uAnwukARsQKXwVg5fMw",
+          "localized": {
+            "ro": {
+              "city": "Constanța",
+              "region": "Județul Constanța",
+              "address": "City Park Mall",
+              "country": "România",
+              "city_state": "Constanța, România",
+              "sublocality": null,
+              "full_address": "City Park Mall, Bulevardul Alexandru Lăpușneanu 116C, Constanța, România",
+              "region_short": "CT",
+              "short_address": "Bulevardul Alexandru Lăpușneanu 116C, Constanța"
+            },
+            "en-GB": {
+              "city": "Constanța",
+              "region": "Județul Constanța",
+              "address": "City Park Mall",
+              "country": "Romania",
+              "city_state": "Constanța, Romania",
+              "sublocality": null,
+              "full_address": "City Park Mall, Bulevardul Alexandru Lăpușneanu 116C, Constanța, Romania",
+              "region_short": "CT",
+              "short_address": "Bulevardul Alexandru Lăpușneanu 116C, Constanța"
+            }
+          },
+          "city_state": "Constanța, Romania",
+          "description": null,
+          "sublocality": null,
+          "country_code": "RO",
+          "full_address": "City Park Mall, Bulevardul Alexandru Lăpușneanu 116C, Constanța, Romania",
+          "region_short": "CT",
+          "short_address": "Bulevardul Alexandru Lăpușneanu 116C, Constanța",
+          "place_coordinate": {
+            "latitude": 44.2030367,
+            "longitude": 28.631094599999997
+          },
+          "apple_maps_place_id": "IEB9E5AE3C7F8A18B",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 28.6323492,
+          "latitude": 44.2037773
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-11T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-oxdboDH8wFbsuFh",
+          "name": "AMZU SORIN",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-dwGrWHTRaN9GTwt",
+      "event": {
+        "api_id": "evt-5jlE9qJDFvfZRWT",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-11T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Cotroceni",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/e1/f5dbf1c9-6c59-4a69-85a9-04eccbf915b5.png",
+        "start_at": "2026-10-11T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "gct0v9lz",
+        "user_api_id": "usr-447Z0XwNOSUdr9G",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Cișmea",
+          "country": "Romania",
+          "place_id": "ChIJXe0WXgD_sUARE_yancVDkFI",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Cișmea",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Parcul Bisericii Sfântul Elefterie",
+              "full_address": "Cișmea, Strada Doctor Joseph Lister 4, București, România",
+              "short_address": "Strada Doctor Joseph Lister 4, București"
+            }
+          },
+          "city_state": "București, București",
+          "description": "",
+          "sublocality": "Parcul Bisericii Sfântul Elefterie",
+          "country_code": "RO",
+          "full_address": "Cișmea, Strada Doctor Joseph Lister 4, București, Romania",
+          "short_address": "Strada Doctor Joseph Lister 4, București",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0777118,
+          "latitude": 44.4339367
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-11T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-447Z0XwNOSUdr9G",
+          "name": "Aleodor Tabarcea",
+          "username": "Aleodor"
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 5,
+      "ticket_count": 5,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-MOi0uVCmjwDAbg0",
+      "event": {
+        "api_id": "evt-qSdrHwqMXGsMTbo",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-11T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Tineretului",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/zb/c391181a-6f1f-49d1-b01b-b5440e41a514.png",
+        "start_at": "2026-10-11T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "60ohns2i",
+        "user_api_id": "usr-04pRO5uWe6ODtE4",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Bucharest",
+          "type": "google",
+          "region": "Bucharest",
+          "address": "Tineretului Park clock",
+          "country": "Romania",
+          "place_id": "ChIJKTQEbT3_sUAR86e5V_Rdafw",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "ceasul din Parcul Tineretului",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "ceasul din Parcul Tineretului, Bucureşti Sectorul 4, București, România",
+              "short_address": "București"
+            },
+            "en-GB": {
+              "city": "Bucharest",
+              "region": "Bucharest",
+              "address": "Tineretului Park clock",
+              "country": "Romania",
+              "city_state": "Bucharest, Bucharest",
+              "sublocality": "Sector 4",
+              "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+              "short_address": "Bucharest"
+            }
+          },
+          "city_state": "Bucharest, Bucharest",
+          "description": "",
+          "sublocality": "Sector 4",
+          "country_code": "RO",
+          "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+          "short_address": "Bucharest",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1043384,
+          "latitude": 44.4136227
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-11T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-04pRO5uWe6ODtE4",
+          "name": "Nicoleta Ifrim",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 7,
+      "ticket_count": 7,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-rjB1fJlJtee7qDK",
+      "event": {
+        "api_id": "evt-0BnhyfYrF01vIcD",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-11T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Craiova",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/f9/f57aa418-6c79-4132-a257-2c6c644e3e0b.png",
+        "start_at": "2026-10-11T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "yimxwav7",
+        "user_api_id": "usr-k3FGko4fTI60c3z",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Craiova",
+          "type": "google",
+          "region": "Județul Dolj",
+          "address": "Bust of Nicolae P. Romanescu",
+          "country": "Romania",
+          "place_id": "ChIJfRBeiLfXUkcRmm82ABkw1pQ",
+          "localized": {
+            "ro": {
+              "city": "Craiova",
+              "region": "Județul Dolj",
+              "address": "Bustul lui Nicolae P. Romanescu",
+              "country": "România",
+              "city_state": "Craiova, Județul Dolj",
+              "sublocality": null,
+              "full_address": "Bustul lui Nicolae P. Romanescu, Calea Unirii, Craiova, România",
+              "short_address": "Calea Unirii, Craiova"
+            }
+          },
+          "city_state": "Craiova, Județul Dolj",
+          "description": "",
+          "sublocality": null,
+          "country_code": "RO",
+          "full_address": "Bust of Nicolae P. Romanescu, Calea Unirii, Craiova, Romania",
+          "short_address": "Calea Unirii, Craiova",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 23.7997166,
+          "latitude": 44.301701699999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-11T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-k3FGko4fTI60c3z",
+          "name": "Alex Ștefănescu",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-ujc4wWnsJvRkSSV",
+      "event": {
+        "api_id": "evt-PszQ6fPpyvg3yqF",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-11T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Cluj",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/rj/1bcdcaea-1bd9-445d-8e5c-66405c546425.png",
+        "start_at": "2026-10-11T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "s88vr12v",
+        "user_api_id": "usr-FGJ121ix75DkgRJ",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Cluj-Napoca",
+          "type": "google",
+          "region": "Județul Cluj",
+          "address": "Public street water pump",
+          "country": "Romania",
+          "place_id": "ChIJs4FkKQAPSUcRBF0JpBZVa6E",
+          "city_state": "Cluj-Napoca, Județul Cluj",
+          "description": "",
+          "country_code": "RO",
+          "full_address": "Public street water pump, Parcul Central, Parcul Central, Cluj-Napoca, Romania",
+          "place_coordinate": null,
+          "apple_maps_place_id": "I550E8D947734CEAE",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 23.583263,
+          "latitude": 46.772042
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-11T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-FGJ121ix75DkgRJ",
+          "name": "Andrei Catinas",
+          "username": null
+        },
+        {
+          "api_id": "usr-QXwFC3hQB3klkE6",
+          "name": "Diana Emilia",
+          "username": null
+        }
+      ],
+      "guest_count": 1,
+      "ticket_count": 1,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": [
+        {
+          "api_id": "tag-PCBEl7lpN5tPtON",
+          "name": "Cluj",
+          "color": "purple"
+        },
+        {
+          "api_id": "tag-SbirGodyvbHOJcZ",
+          "name": "Community",
+          "color": "yellow"
+        },
+        {
+          "api_id": "tag-HdlsSplHcRZkKcP",
+          "name": "Mental Health",
+          "color": "barney"
+        },
+        {
+          "api_id": "tag-plBp1DEr7AC1bP1",
+          "name": "Nature",
+          "color": "green"
+        },
+        {
+          "api_id": "tag-HLQckUUxfFYqftD",
+          "name": "Startup",
+          "color": "blue"
+        },
+        {
+          "api_id": "tag-gRjGWaUPSvTDxlw",
+          "name": "Walk",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "api_id": "calev-wz0AHDjljg4eA13",
+      "event": {
+        "api_id": "evt-A5lLYyEjO8ghs6v",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-11T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Satu Mare",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/jw/d97a3fdf-1c4e-4681-8c11-008af203ea0e.png",
+        "start_at": "2026-10-11T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "o11ac8kq",
+        "user_api_id": "usr-yWiCV7g24eBaA18",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Satu Mare",
+          "type": "google",
+          "region": "Județul Satu Mare",
+          "address": "Galop coffee roasters",
+          "country": "Romania",
+          "place_id": "ChIJFfTbgAAFOEcRkZOYNwMikoM",
+          "localized": {
+            "ro": {
+              "city": "Satu Mare",
+              "region": "Județul Satu Mare",
+              "address": "Galop coffee roasters",
+              "country": "România",
+              "city_state": "Satu Mare, România",
+              "sublocality": null,
+              "full_address": "Galop coffee roasters, Strada Mihai Viteazul 4-6, Satu Mare, România",
+              "region_short": "SM",
+              "short_address": "Strada Mihai Viteazul 4-6, Satu Mare"
+            },
+            "en-GB": {
+              "city": "Satu Mare",
+              "region": "Județul Satu Mare",
+              "address": "Galop coffee roasters",
+              "country": "Romania",
+              "city_state": "Satu Mare, Romania",
+              "sublocality": null,
+              "full_address": "Galop coffee roasters, Strada Mihai Viteazul 4-6, Satu Mare, Romania",
+              "region_short": "SM",
+              "short_address": "Strada Mihai Viteazul 4-6, Satu Mare"
+            }
+          },
+          "city_state": "Satu Mare, Romania",
+          "description": "",
+          "sublocality": null,
+          "country_code": "RO",
+          "full_address": "Galop coffee roasters, Strada Mihai Viteazul 4-6, Satu Mare, Romania",
+          "region_short": "SM",
+          "short_address": "Strada Mihai Viteazul 4-6, Satu Mare",
+          "place_coordinate": {
+            "latitude": 47.795121400000006,
+            "longitude": 22.8769204
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 22.8769204,
+          "latitude": 47.795121400000006
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-11T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-yWiCV7g24eBaA18",
+          "name": "Sebastian Banescu",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-XdekYEoIXYWCt5T",
+      "event": {
+        "api_id": "evt-a8pCR0Gkc1Lpf4N",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-11T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Iași",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/jb/1a768184-3486-4df7-bdb0-9e68ec8d712b.png",
+        "start_at": "2026-10-11T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "ezjy77k8",
+        "user_api_id": "usr-sO26Uz4GpGoBttj",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Iași",
+          "type": "google",
+          "region": "Județul Iași",
+          "address": "Students' Cultural House",
+          "country": "Romania",
+          "place_id": "ChIJ4fRlYGP7ykARsomTl6nw2qw",
+          "localized": {
+            "ro": {
+              "city": "Iași",
+              "region": "Județul Iași",
+              "address": "Casa de Cultură a Studenților",
+              "country": "România",
+              "city_state": "Iași, Județul Iași",
+              "sublocality": "Copou",
+              "full_address": "Casa de Cultură a Studenților, Strada Vasile Conta nr. 30, 700106 Iași, România",
+              "short_address": "Strada Vasile Conta nr. 30, Iași"
+            },
+            "en-GB": {
+              "city": "Iași",
+              "region": "Județul Iași",
+              "address": "Students' Cultural House",
+              "country": "Romania",
+              "city_state": "Iași, Județul Iași",
+              "sublocality": "Copou",
+              "full_address": "Students' Cultural House, Strada Vasile Conta nr. 30, 700106 Iași, Romania",
+              "short_address": "Strada Vasile Conta nr. 30, Iași"
+            }
+          },
+          "city_state": "Iași, Județul Iași",
+          "description": "",
+          "sublocality": "Copou",
+          "country_code": "RO",
+          "full_address": "Students' Cultural House, Strada Vasile Conta nr. 30, 700106 Iași, Romania",
+          "short_address": "Strada Vasile Conta nr. 30, Iași",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 27.577238200000004,
+          "latitude": 47.170224999999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-11T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-sO26Uz4GpGoBttj",
+          "name": "Claudiu F",
+          "username": "claudiuf"
+        },
+        {
+          "api_id": "usr-VFzvpYr0VoLoSce",
+          "name": "Endi Ungureanu",
+          "username": "endi"
+        },
+        {
+          "api_id": "usr-tHTib8qSA0I5UKX",
+          "name": "Lili Luchian",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-iUWCqYuIPZYh4w3",
+      "event": {
+        "api_id": "evt-RWBnpBCe6N9LaO5",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-18T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Tineretului",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/zo/4403989f-3f18-4d17-9d70-c4b0304a4dd7.png",
+        "start_at": "2026-10-18T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "29qnja0u",
+        "user_api_id": "usr-04pRO5uWe6ODtE4",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Bucharest",
+          "type": "google",
+          "region": "Bucharest",
+          "address": "Tineretului Park clock",
+          "country": "Romania",
+          "place_id": "ChIJKTQEbT3_sUAR86e5V_Rdafw",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "ceasul din Parcul Tineretului",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Bucureşti Sectorul 4",
+              "full_address": "ceasul din Parcul Tineretului, Bucureşti Sectorul 4, București, România",
+              "short_address": "București"
+            },
+            "en-GB": {
+              "city": "Bucharest",
+              "region": "Bucharest",
+              "address": "Tineretului Park clock",
+              "country": "Romania",
+              "city_state": "Bucharest, Bucharest",
+              "sublocality": "Sector 4",
+              "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+              "short_address": "Bucharest"
+            }
+          },
+          "city_state": "Bucharest, Bucharest",
+          "description": "",
+          "sublocality": "Sector 4",
+          "country_code": "RO",
+          "full_address": "Tineretului Park clock, Sector 4, Bucharest, Romania",
+          "short_address": "Bucharest",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.1043384,
+          "latitude": 44.4136227
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-18T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-04pRO5uWe6ODtE4",
+          "name": "Nicoleta Ifrim",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-M6w0bnmcGf1ZxrS",
+      "event": {
+        "api_id": "evt-eVW8BFszSs5dgX8",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-18T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Cotroceni",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/kj/3bcaebd5-02e1-449e-b4f2-e7e1fad6f146.png",
+        "start_at": "2026-10-18T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "9r2dg1qe",
+        "user_api_id": "usr-447Z0XwNOSUdr9G",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Cișmea",
+          "country": "Romania",
+          "place_id": "ChIJXe0WXgD_sUARE_yancVDkFI",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Cișmea",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Parcul Bisericii Sfântul Elefterie",
+              "full_address": "Cișmea, Strada Doctor Joseph Lister 4, București, România",
+              "short_address": "Strada Doctor Joseph Lister 4, București"
+            }
+          },
+          "city_state": "București, București",
+          "description": "",
+          "sublocality": "Parcul Bisericii Sfântul Elefterie",
+          "country_code": "RO",
+          "full_address": "Cișmea, Strada Doctor Joseph Lister 4, București, Romania",
+          "short_address": "Strada Doctor Joseph Lister 4, București",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.0777118,
+          "latitude": 44.4339367
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-18T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-447Z0XwNOSUdr9G",
+          "name": "Aleodor Tabarcea",
+          "username": "Aleodor"
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-o2pDdGWK8HtlozK",
+      "event": {
+        "api_id": "evt-2J9cTdyO0PCEfpw",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-18T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Craiova",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/wm/7cc80632-bf5b-45d7-a719-b6db2cb0111e.png",
+        "start_at": "2026-10-18T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "hj5qhp3j",
+        "user_api_id": "usr-k3FGko4fTI60c3z",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Craiova",
+          "type": "google",
+          "region": "Județul Dolj",
+          "address": "Bust of Nicolae P. Romanescu",
+          "country": "Romania",
+          "place_id": "ChIJfRBeiLfXUkcRmm82ABkw1pQ",
+          "localized": {
+            "ro": {
+              "city": "Craiova",
+              "region": "Județul Dolj",
+              "address": "Bustul lui Nicolae P. Romanescu",
+              "country": "România",
+              "city_state": "Craiova, Județul Dolj",
+              "sublocality": null,
+              "full_address": "Bustul lui Nicolae P. Romanescu, Calea Unirii, Craiova, România",
+              "short_address": "Calea Unirii, Craiova"
+            }
+          },
+          "city_state": "Craiova, Județul Dolj",
+          "description": "",
+          "sublocality": null,
+          "country_code": "RO",
+          "full_address": "Bust of Nicolae P. Romanescu, Calea Unirii, Craiova, Romania",
+          "short_address": "Calea Unirii, Craiova",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 23.7997166,
+          "latitude": 44.301701699999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-18T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-k3FGko4fTI60c3z",
+          "name": "Alex Ștefănescu",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-wW54lE0kNips53I",
+      "event": {
+        "api_id": "evt-OPREv49PKZjEZXD",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-18T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Herăstrău",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/rp/c36a80b6-56f5-48aa-9313-623f7665d693.png",
+        "start_at": "2026-10-18T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "fu6hska9",
+        "user_api_id": "usr-yomhnvpt5g17mhz",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Statue of Charles De Gaulle",
+          "country": "Romania",
+          "place_id": "ChIJ3QTW6BECskARp5Y5jlub2ok",
+          "city_state": "București, București",
+          "description": "",
+          "country_code": "RO",
+          "full_address": "Statue of Charles De Gaulle, Piața Charles de Gaulle 3, București, Romania",
+          "place_coordinate": null,
+          "apple_maps_place_id": "I5B5C74F2088B28AA",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.08572,
+          "latitude": 44.46699
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-18T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-ZMJwxf9mIAka8Ms",
+      "event": {
+        "api_id": "evt-tOjrJYgK9HkKxiC",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-18T07:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică I.O.R.",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/rl/56bf4b33-4f45-4668-9a05-8aa087a17d3c.png",
+        "start_at": "2026-10-18T06:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "o4dp3ju7",
+        "user_api_id": "usr-Ae5XksaorB3dWjB",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "București",
+          "type": "google",
+          "region": "București",
+          "address": "Alexandru Ioan Cuza Statuie",
+          "country": "Romania",
+          "place_id": "ChIJI6vF30j_sUARHE1eXV2_RKc",
+          "localized": {
+            "ro": {
+              "city": "București",
+              "region": "București",
+              "address": "Alexandru Ioan Cuza Statuie",
+              "country": "România",
+              "city_state": "București, București",
+              "sublocality": "Titan",
+              "full_address": "Alexandru Ioan Cuza Statuie, Unnamed Road, București, România",
+              "short_address": "Unnamed Road, București"
+            }
+          },
+          "city_state": "București, București",
+          "description": "",
+          "sublocality": "Titan",
+          "country_code": "RO",
+          "full_address": "Alexandru Ioan Cuza Statuie, Unnamed Road, București, Romania",
+          "short_address": "Unnamed Road, București",
+          "place_coordinate": null,
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 26.150153,
+          "latitude": 44.425902
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-18T06:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-Ae5XksaorB3dWjB",
+          "name": "Irina Tenovici",
+          "username": "irinatenovici"
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-7FKyRhnUCWVWIEl",
+      "event": {
+        "api_id": "evt-qtBoFCoxBS6GTTq",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-18T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Cluj",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/72/76cc0b13-8cc2-4e05-9eaf-1923f1731408.png",
+        "start_at": "2026-10-18T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "eebdzx3s",
+        "user_api_id": "usr-FGJ121ix75DkgRJ",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Cluj-Napoca",
+          "type": "google",
+          "region": "Județul Cluj",
+          "address": "Public street water pump",
+          "country": "Romania",
+          "place_id": "ChIJs4FkKQAPSUcRBF0JpBZVa6E",
+          "city_state": "Cluj-Napoca, Județul Cluj",
+          "description": "",
+          "country_code": "RO",
+          "full_address": "Public street water pump, Parcul Central, Parcul Central, Cluj-Napoca, Romania",
+          "place_coordinate": null,
+          "apple_maps_place_id": "I550E8D947734CEAE",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 23.583263,
+          "latitude": 46.772042
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-18T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-FGJ121ix75DkgRJ",
+          "name": "Andrei Catinas",
+          "username": null
+        },
+        {
+          "api_id": "usr-QXwFC3hQB3klkE6",
+          "name": "Diana Emilia",
+          "username": null
+        }
+      ],
+      "guest_count": 1,
+      "ticket_count": 1,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": [
+        {
+          "api_id": "tag-PCBEl7lpN5tPtON",
+          "name": "Cluj",
+          "color": "purple"
+        },
+        {
+          "api_id": "tag-SbirGodyvbHOJcZ",
+          "name": "Community",
+          "color": "yellow"
+        },
+        {
+          "api_id": "tag-HdlsSplHcRZkKcP",
+          "name": "Mental Health",
+          "color": "barney"
+        },
+        {
+          "api_id": "tag-plBp1DEr7AC1bP1",
+          "name": "Nature",
+          "color": "green"
+        },
+        {
+          "api_id": "tag-HLQckUUxfFYqftD",
+          "name": "Startup",
+          "color": "blue"
+        },
+        {
+          "api_id": "tag-gRjGWaUPSvTDxlw",
+          "name": "Walk",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "api_id": "calev-f54W8kHTVXTjFcx",
+      "event": {
+        "api_id": "evt-N4oscrMwhHyYPCJ",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-18T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Satu Mare",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/dz/ae6ef4e5-e9a7-4211-8e7d-169829005e07.png",
+        "start_at": "2026-10-18T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "za3oxp4m",
+        "user_api_id": "usr-yWiCV7g24eBaA18",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Satu Mare",
+          "type": "google",
+          "region": "Județul Satu Mare",
+          "address": "Galop coffee roasters",
+          "country": "Romania",
+          "place_id": "ChIJFfTbgAAFOEcRkZOYNwMikoM",
+          "localized": {
+            "ro": {
+              "city": "Satu Mare",
+              "region": "Județul Satu Mare",
+              "address": "Galop coffee roasters",
+              "country": "România",
+              "city_state": "Satu Mare, România",
+              "sublocality": null,
+              "full_address": "Galop coffee roasters, Strada Mihai Viteazul 4-6, Satu Mare, România",
+              "region_short": "SM",
+              "short_address": "Strada Mihai Viteazul 4-6, Satu Mare"
+            },
+            "en-GB": {
+              "city": "Satu Mare",
+              "region": "Județul Satu Mare",
+              "address": "Galop coffee roasters",
+              "country": "Romania",
+              "city_state": "Satu Mare, Romania",
+              "sublocality": null,
+              "full_address": "Galop coffee roasters, Strada Mihai Viteazul 4-6, Satu Mare, Romania",
+              "region_short": "SM",
+              "short_address": "Strada Mihai Viteazul 4-6, Satu Mare"
+            }
+          },
+          "city_state": "Satu Mare, Romania",
+          "description": "",
+          "sublocality": null,
+          "country_code": "RO",
+          "full_address": "Galop coffee roasters, Strada Mihai Viteazul 4-6, Satu Mare, Romania",
+          "region_short": "SM",
+          "short_address": "Strada Mihai Viteazul 4-6, Satu Mare",
+          "place_coordinate": {
+            "latitude": 47.795121400000006,
+            "longitude": 22.8769204
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 22.8769204,
+          "latitude": 47.795121400000006
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-18T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-yWiCV7g24eBaA18",
+          "name": "Sebastian Banescu",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-ehWx9HCHiheFQMZ",
+      "event": {
+        "api_id": "evt-aGasZ7IYHXgE90p",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-25T08:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Craiova",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/29/ebf298da-b593-4722-bdbe-dc6144858803.png",
+        "start_at": "2026-10-25T07:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "l7njhtrv",
+        "user_api_id": "usr-k3FGko4fTI60c3z",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Craiova",
+          "type": "google",
+          "region": "Județul Dolj",
+          "address": "Bust of Nicolae P. Romanescu",
+          "country": "Romania",
+          "place_id": "ChIJfRBeiLfXUkcRmm82ABkw1pQ",
+          "localized": {
+            "ro": {
+              "city": "Craiova",
+              "region": "Județul Dolj",
+              "address": "Bustul lui Nicolae P. Romanescu",
+              "country": "România",
+              "city_state": "Craiova, Județul Dolj",
+              "sublocality": null,
+              "full_address": "Bustul lui Nicolae P. Romanescu, Calea Unirii, Craiova, România",
+              "short_address": "Calea Unirii, Craiova"
+            }
+          },
+          "city_state": "Craiova, Județul Dolj",
+          "description": "",
+          "sublocality": null,
+          "country_code": "RO",
+          "full_address": "Bust of Nicolae P. Romanescu, Calea Unirii, Craiova, Romania",
+          "short_address": "Calea Unirii, Craiova",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 23.7997166,
+          "latitude": 44.301701699999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-25T07:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-k3FGko4fTI60c3z",
+          "name": "Alex Ștefănescu",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-oZE8p5jN3ffG2zw",
+      "event": {
+        "api_id": "evt-V7qdLdlWG0cfVqF",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-25T09:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Iași",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/th/a238dcc3-ec69-420e-925f-f81b7191d964.png",
+        "start_at": "2026-10-25T08:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "4cp78wbw",
+        "user_api_id": "usr-sO26Uz4GpGoBttj",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Iași",
+          "type": "google",
+          "region": "Județul Iași",
+          "address": "Students' Cultural House",
+          "country": "Romania",
+          "place_id": "ChIJ4fRlYGP7ykARsomTl6nw2qw",
+          "localized": {
+            "ro": {
+              "city": "Iași",
+              "region": "Județul Iași",
+              "address": "Casa de Cultură a Studenților",
+              "country": "România",
+              "city_state": "Iași, Județul Iași",
+              "sublocality": "Copou",
+              "full_address": "Casa de Cultură a Studenților, Strada Vasile Conta nr. 30, 700106 Iași, România",
+              "short_address": "Strada Vasile Conta nr. 30, Iași"
+            },
+            "en-GB": {
+              "city": "Iași",
+              "region": "Județul Iași",
+              "address": "Students' Cultural House",
+              "country": "Romania",
+              "city_state": "Iași, Județul Iași",
+              "sublocality": "Copou",
+              "full_address": "Students' Cultural House, Strada Vasile Conta nr. 30, 700106 Iași, Romania",
+              "short_address": "Strada Vasile Conta nr. 30, Iași"
+            }
+          },
+          "city_state": "Iași, Județul Iași",
+          "description": "",
+          "sublocality": "Copou",
+          "country_code": "RO",
+          "full_address": "Students' Cultural House, Strada Vasile Conta nr. 30, 700106 Iași, Romania",
+          "short_address": "Strada Vasile Conta nr. 30, Iași",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 27.577238200000004,
+          "latitude": 47.170224999999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-25T08:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-sO26Uz4GpGoBttj",
+          "name": "Claudiu F",
+          "username": "claudiuf"
+        },
+        {
+          "api_id": "usr-VFzvpYr0VoLoSce",
+          "name": "Endi Ungureanu",
+          "username": "endi"
+        },
+        {
+          "api_id": "usr-tHTib8qSA0I5UKX",
+          "name": "Lili Luchian",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-S3Ed6PPnHMlhroj",
+      "event": {
+        "api_id": "evt-z4did7JH49hg1op",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-25T09:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Satu Mare",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/ai/f6660b4b-6778-4be0-8f5f-e9758a3c8222.png",
+        "start_at": "2026-10-25T08:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "1ciz5nnf",
+        "user_api_id": "usr-yWiCV7g24eBaA18",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Satu Mare",
+          "type": "google",
+          "region": "Județul Satu Mare",
+          "address": "Galop coffee roasters",
+          "country": "Romania",
+          "place_id": "ChIJFfTbgAAFOEcRkZOYNwMikoM",
+          "localized": {
+            "ro": {
+              "city": "Satu Mare",
+              "region": "Județul Satu Mare",
+              "address": "Galop coffee roasters",
+              "country": "România",
+              "city_state": "Satu Mare, România",
+              "sublocality": null,
+              "full_address": "Galop coffee roasters, Strada Mihai Viteazul 4-6, Satu Mare, România",
+              "region_short": "SM",
+              "short_address": "Strada Mihai Viteazul 4-6, Satu Mare"
+            },
+            "en-GB": {
+              "city": "Satu Mare",
+              "region": "Județul Satu Mare",
+              "address": "Galop coffee roasters",
+              "country": "Romania",
+              "city_state": "Satu Mare, Romania",
+              "sublocality": null,
+              "full_address": "Galop coffee roasters, Strada Mihai Viteazul 4-6, Satu Mare, Romania",
+              "region_short": "SM",
+              "short_address": "Strada Mihai Viteazul 4-6, Satu Mare"
+            }
+          },
+          "city_state": "Satu Mare, Romania",
+          "description": "",
+          "sublocality": null,
+          "country_code": "RO",
+          "full_address": "Galop coffee roasters, Strada Mihai Viteazul 4-6, Satu Mare, Romania",
+          "region_short": "SM",
+          "short_address": "Strada Mihai Viteazul 4-6, Satu Mare",
+          "place_coordinate": {
+            "latitude": 47.795121400000006,
+            "longitude": 22.8769204
+          },
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 22.8769204,
+          "latitude": 47.795121400000006
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-25T08:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-yWiCV7g24eBaA18",
+          "name": "Sebastian Banescu",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-Vu96UmJ70zrIwM1",
+      "event": {
+        "api_id": "evt-CUUIXqP6Q2wP58K",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-10-25T09:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Cluj",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/5h/7f28541a-7451-49f1-9d43-ff46c5a80472.png",
+        "start_at": "2026-10-25T08:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "u4n39kh2",
+        "user_api_id": "usr-FGJ121ix75DkgRJ",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Cluj-Napoca",
+          "type": "google",
+          "region": "Județul Cluj",
+          "address": "Public street water pump",
+          "country": "Romania",
+          "place_id": "ChIJs4FkKQAPSUcRBF0JpBZVa6E",
+          "city_state": "Cluj-Napoca, Județul Cluj",
+          "description": "",
+          "country_code": "RO",
+          "full_address": "Public street water pump, Parcul Central, Parcul Central, Cluj-Napoca, Romania",
+          "place_coordinate": null,
+          "apple_maps_place_id": "I550E8D947734CEAE",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 23.583263,
+          "latitude": 46.772042
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-10-25T08:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-FGJ121ix75DkgRJ",
+          "name": "Andrei Catinas",
+          "username": null
+        },
+        {
+          "api_id": "usr-QXwFC3hQB3klkE6",
+          "name": "Diana Emilia",
+          "username": null
+        }
+      ],
+      "guest_count": 1,
+      "ticket_count": 1,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": [
+        {
+          "api_id": "tag-PCBEl7lpN5tPtON",
+          "name": "Cluj",
+          "color": "purple"
+        },
+        {
+          "api_id": "tag-SbirGodyvbHOJcZ",
+          "name": "Community",
+          "color": "yellow"
+        },
+        {
+          "api_id": "tag-HdlsSplHcRZkKcP",
+          "name": "Mental Health",
+          "color": "barney"
+        },
+        {
+          "api_id": "tag-plBp1DEr7AC1bP1",
+          "name": "Nature",
+          "color": "green"
+        },
+        {
+          "api_id": "tag-HLQckUUxfFYqftD",
+          "name": "Startup",
+          "color": "blue"
+        },
+        {
+          "api_id": "tag-gRjGWaUPSvTDxlw",
+          "name": "Walk",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "api_id": "calev-KhE0TDNmYTV2GrG",
+      "event": {
+        "api_id": "evt-26JDU4OAkWfF0jb",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-11-01T09:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Iași",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/rj/11cfeb2a-53d8-4e4c-add2-0d1d7360ee2f.png",
+        "start_at": "2026-11-01T08:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "nievjfl8",
+        "user_api_id": "usr-sO26Uz4GpGoBttj",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Iași",
+          "type": "google",
+          "region": "Județul Iași",
+          "address": "Students' Cultural House",
+          "country": "Romania",
+          "place_id": "ChIJ4fRlYGP7ykARsomTl6nw2qw",
+          "localized": {
+            "ro": {
+              "city": "Iași",
+              "region": "Județul Iași",
+              "address": "Casa de Cultură a Studenților",
+              "country": "România",
+              "city_state": "Iași, Județul Iași",
+              "sublocality": "Copou",
+              "full_address": "Casa de Cultură a Studenților, Strada Vasile Conta nr. 30, 700106 Iași, România",
+              "short_address": "Strada Vasile Conta nr. 30, Iași"
+            },
+            "en-GB": {
+              "city": "Iași",
+              "region": "Județul Iași",
+              "address": "Students' Cultural House",
+              "country": "Romania",
+              "city_state": "Iași, Județul Iași",
+              "sublocality": "Copou",
+              "full_address": "Students' Cultural House, Strada Vasile Conta nr. 30, 700106 Iași, Romania",
+              "short_address": "Strada Vasile Conta nr. 30, Iași"
+            }
+          },
+          "city_state": "Iași, Județul Iași",
+          "description": "",
+          "sublocality": "Copou",
+          "country_code": "RO",
+          "full_address": "Students' Cultural House, Strada Vasile Conta nr. 30, 700106 Iași, Romania",
+          "short_address": "Strada Vasile Conta nr. 30, Iași",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 27.577238200000004,
+          "latitude": 47.170224999999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-01T08:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-sO26Uz4GpGoBttj",
+          "name": "Claudiu F",
+          "username": "claudiuf"
+        },
+        {
+          "api_id": "usr-VFzvpYr0VoLoSce",
+          "name": "Endi Ungureanu",
+          "username": "endi"
+        },
+        {
+          "api_id": "usr-tHTib8qSA0I5UKX",
+          "name": "Lili Luchian",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-fKfv3EwjnQYbnuO",
+      "event": {
+        "api_id": "evt-tpG29kkksAKvqa7",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-11-08T09:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Iași",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/p9/ebb0b112-77bf-4ab4-9c4b-d1341b6908ae.png",
+        "start_at": "2026-11-08T08:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "gyr606wr",
+        "user_api_id": "usr-sO26Uz4GpGoBttj",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Iași",
+          "type": "google",
+          "region": "Județul Iași",
+          "address": "Students' Cultural House",
+          "country": "Romania",
+          "place_id": "ChIJ4fRlYGP7ykARsomTl6nw2qw",
+          "localized": {
+            "ro": {
+              "city": "Iași",
+              "region": "Județul Iași",
+              "address": "Casa de Cultură a Studenților",
+              "country": "România",
+              "city_state": "Iași, Județul Iași",
+              "sublocality": "Copou",
+              "full_address": "Casa de Cultură a Studenților, Strada Vasile Conta nr. 30, 700106 Iași, România",
+              "short_address": "Strada Vasile Conta nr. 30, Iași"
+            },
+            "en-GB": {
+              "city": "Iași",
+              "region": "Județul Iași",
+              "address": "Students' Cultural House",
+              "country": "Romania",
+              "city_state": "Iași, Județul Iași",
+              "sublocality": "Copou",
+              "full_address": "Students' Cultural House, Strada Vasile Conta nr. 30, 700106 Iași, Romania",
+              "short_address": "Strada Vasile Conta nr. 30, Iași"
+            }
+          },
+          "city_state": "Iași, Județul Iași",
+          "description": "",
+          "sublocality": "Copou",
+          "country_code": "RO",
+          "full_address": "Students' Cultural House, Strada Vasile Conta nr. 30, 700106 Iași, Romania",
+          "short_address": "Strada Vasile Conta nr. 30, Iași",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 27.577238200000004,
+          "latitude": 47.170224999999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-08T08:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-sO26Uz4GpGoBttj",
+          "name": "Claudiu F",
+          "username": "claudiuf"
+        },
+        {
+          "api_id": "usr-VFzvpYr0VoLoSce",
+          "name": "Endi Ungureanu",
+          "username": "endi"
+        },
+        {
+          "api_id": "usr-tHTib8qSA0I5UKX",
+          "name": "Lili Luchian",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    },
+    {
+      "api_id": "calev-vL1H7b5q8RYMpOT",
+      "event": {
+        "api_id": "evt-dCmbohaHOX7nB9W",
+        "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+        "end_at": "2026-11-15T09:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Tura de duminică Iași",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/io/cf937232-cfd1-470a-88c4-7e9ce1094b70.png",
+        "start_at": "2026-11-15T08:00:00.000Z",
+        "timezone": "Europe/Bucharest",
+        "url": "ajx6dnlf",
+        "user_api_id": "usr-sO26Uz4GpGoBttj",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Iași",
+          "type": "google",
+          "region": "Județul Iași",
+          "address": "Students' Cultural House",
+          "country": "Romania",
+          "place_id": "ChIJ4fRlYGP7ykARsomTl6nw2qw",
+          "localized": {
+            "ro": {
+              "city": "Iași",
+              "region": "Județul Iași",
+              "address": "Casa de Cultură a Studenților",
+              "country": "România",
+              "city_state": "Iași, Județul Iași",
+              "sublocality": "Copou",
+              "full_address": "Casa de Cultură a Studenților, Strada Vasile Conta nr. 30, 700106 Iași, România",
+              "short_address": "Strada Vasile Conta nr. 30, Iași"
+            },
+            "en-GB": {
+              "city": "Iași",
+              "region": "Județul Iași",
+              "address": "Students' Cultural House",
+              "country": "Romania",
+              "city_state": "Iași, Județul Iași",
+              "sublocality": "Copou",
+              "full_address": "Students' Cultural House, Strada Vasile Conta nr. 30, 700106 Iași, Romania",
+              "short_address": "Strada Vasile Conta nr. 30, Iași"
+            }
+          },
+          "city_state": "Iași, Județul Iași",
+          "description": "",
+          "sublocality": "Copou",
+          "country_code": "RO",
+          "full_address": "Students' Cultural House, Strada Vasile Conta nr. 30, 700106 Iași, Romania",
+          "short_address": "Strada Vasile Conta nr. 30, Iași",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": 27.577238200000004,
+          "latitude": 47.170224999999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-Su3WAWlpDDLutSO",
+        "coordinate": null,
+        "description_short": "În fiecare duminică dimineață ne vedem la o tură de parc. Mers, nu alergat. Departe de ecrane, aproape de oameni! Face bine la cap, suflet și trup!\n\nSubscribe la calendar = subscribe la newsletter",
+        "end_date": null,
+        "is_verified": false,
+        "location": null,
+        "name": "Tura de duminică",
+        "personal_user_api_id": null,
+        "slug": "turadeduminica",
+        "start_date": null,
+        "website": null,
+        "is_personal": false,
+        "personal_user": null,
+        "timezone": null
+      },
+      "start_at": "2026-11-15T08:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-sO26Uz4GpGoBttj",
+          "name": "Claudiu F",
+          "username": "claudiuf"
+        },
+        {
+          "api_id": "usr-VFzvpYr0VoLoSce",
+          "name": "Endi Ungureanu",
+          "username": "endi"
+        },
+        {
+          "api_id": "usr-tHTib8qSA0I5UKX",
+          "name": "Lili Luchian",
+          "username": null
+        },
+        {
+          "api_id": "usr-yomhnvpt5g17mhz",
+          "name": "Emily Merdus",
+          "username": null
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-Su3WAWlpDDLutSO",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "tags": []
+    }
+  ]
+}
