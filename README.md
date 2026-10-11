@@ -6,11 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 10 octombrie
-
-- `12:00` [ATELIER DE CIOCOLATA](https://lu.ma/yj8yxolk)  
-  <sub>Criste Irina Raluca · Florești, Romania · 6 participanți</sub>
-
 ### Duminică, 11 octombrie
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/s88vr12v)  
@@ -19,7 +14,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Miercuri, 14 octombrie
 
 - `19:00` [Proiecție de film & discuție: Singin' in the Rain (r. Gene Kelly, Stanley Donen)](https://lu.ma/at64u436)  
-  <sub>Centrul de Cultura Urbana · 49 de participanți</sub>
+  <sub>Centrul de Cultura Urbana · 56 de participanți</sub>
 
 ### Joi, 15 octombrie
 
@@ -41,15 +36,20 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `18:00` [Beyond Borders: How Lean Teams Get International Customers in the Age of AI](https://lu.ma/clzrm2hm)  
   <sub>Calin Buzan · 26 de participanți</sub>
 
+### Duminică, 25 octombrie
+
+- `10:00` [Tura de duminică Cluj](https://lu.ma/u4n39kh2)  
+  <sub>Andrei Catinas · 1 participant</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-10)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-11)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-10)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-11)
 
 ## Despre
 
@@ -61,4 +61,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 10 octombrie 2026*
+*Actualizat: 11 octombrie 2026*
