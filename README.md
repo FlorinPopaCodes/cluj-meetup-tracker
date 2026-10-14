@@ -9,9 +9,9 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Miercuri, 14 octombrie
 
 - `19:00` [Proiecție de film & discuție: Singin' in the Rain (r. Gene Kelly, Stanley Donen)](https://lu.ma/at64u436)  
-  <sub>Centrul de Cultura Urbana · 89 de participanți</sub>
+  <sub>Centrul de Cultura Urbana · 98 de participanți</sub>
 - `19:00` [WEDNESDAY TRACK](https://lu.ma/b6dngp2j)  
-  <sub>Pop Iulia · 5 participanți</sub>
+  <sub>Pop Iulia · 6 participanți</sub>
 
 ### Joi, 15 octombrie
 
@@ -31,7 +31,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Marți, 20 octombrie
 
 - `18:00` [Beyond Borders: How Lean Teams Get International Customers in the Age of AI](https://lu.ma/clzrm2hm)  
-  <sub>Calin Buzan · 29 de participanți</sub>
+  <sub>Calin Buzan · 31 de participanți</sub>
 
 ### Duminică, 25 octombrie
 
@@ -42,11 +42,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-13)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-14)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-13)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-14)
 
 ## Despre
 
@@ -58,4 +58,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 13 octombrie 2026*
+*Actualizat: 14 octombrie 2026*
