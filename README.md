@@ -6,13 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Miercuri, 14 octombrie
-
-- `19:00` [Proiecție de film & discuție: Singin' in the Rain (r. Gene Kelly, Stanley Donen)](https://lu.ma/at64u436)  
-  <sub>Centrul de Cultura Urbana · 98 de participanți</sub>
-- `19:00` [WEDNESDAY TRACK](https://lu.ma/b6dngp2j)  
-  <sub>Pop Iulia · 6 participanți</sub>
-
 ### Joi, 15 octombrie
 
 - `18:00` [AI Deep Dives](https://lu.ma/w1ikg1sl)  
@@ -21,17 +14,22 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Vineri, 16 octombrie
 
 - `18:00` [Arcade Game Jam](https://lu.ma/q8by929z)  
-  <sub>TAGAP · 17 participanți</sub>
+  <sub>TAGAP · 18 participanți</sub>
 
 ### Duminică, 18 octombrie
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/eebdzx3s)  
-  <sub>Andrei Catinas · 1 participant</sub>
+  <sub>Andrei Catinas · 2 participanți</sub>
 
 ### Marți, 20 octombrie
 
 - `18:00` [Beyond Borders: How Lean Teams Get International Customers in the Age of AI](https://lu.ma/clzrm2hm)  
-  <sub>Calin Buzan · 31 de participanți</sub>
+  <sub>Calin Buzan · 33 de participanți</sub>
+
+### Vineri, 23 octombrie
+
+- `19:00` [MENTALKS UNFILTERED CLUJ: ANTREPRENORIAT FĂRĂ FILTRU.](https://lu.ma/gjwdw4ky)  
+  <sub>MENtalks · 33 de participanți</sub>
 
 ### Duminică, 25 octombrie
 
@@ -42,11 +40,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-14)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-15)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-14)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-15)
 
 ## Despre
 
@@ -58,4 +56,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 14 octombrie 2026*
+*Actualizat: 15 octombrie 2026*
