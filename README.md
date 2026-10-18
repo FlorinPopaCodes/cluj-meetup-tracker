@@ -18,10 +18,15 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `18:00` [Beyond Borders: How Lean Teams Get International Customers in the Age of AI](https://lu.ma/clzrm2hm)  
   <sub>Calin Buzan · 37 de participanți</sub>
 
+### Joi, 22 octombrie
+
+- `19:30` [Product drinks in Cluj-Napoca](https://lu.ma/2dkn9wn7)  
+  <sub>Dragos · 4 participanți</sub>
+
 ### Vineri, 23 octombrie
 
 - `19:00` [MENTALKS UNFILTERED CLUJ: ANTREPRENORIAT FĂRĂ FILTRU.](https://lu.ma/gjwdw4ky)  
-  <sub>MENtalks · 37 de participanți</sub>
+  <sub>MENtalks · 39 de participanți</sub>
 
 ### Duminică, 25 octombrie
 
@@ -32,11 +37,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-17)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-18)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-17)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-18)
 
 ## Despre
 
@@ -48,4 +53,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 17 octombrie 2026*
+*Actualizat: 18 octombrie 2026*
