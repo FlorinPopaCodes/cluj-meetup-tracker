@@ -6,17 +6,10 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Duminică, 18 octombrie
-
-- `09:30` [HOT GIRL SUNDAY RUN @La Sentiment](https://lu.ma/1hwq5jtc)  
-  <sub>Hot Girl Run Club · 23 de participanți</sub>
-- `10:00` [Tura de duminică Cluj](https://lu.ma/eebdzx3s)  
-  <sub>Andrei Catinas · 2 participanți</sub>
-
 ### Marți, 20 octombrie
 
 - `18:00` [Beyond Borders: How Lean Teams Get International Customers in the Age of AI](https://lu.ma/clzrm2hm)  
-  <sub>Calin Buzan · 37 de participanți</sub>
+  <sub>Calin Buzan · 39 de participanți</sub>
 
 ### Joi, 22 octombrie
 
@@ -26,7 +19,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Vineri, 23 octombrie
 
 - `19:00` [MENTALKS UNFILTERED CLUJ: ANTREPRENORIAT FĂRĂ FILTRU.](https://lu.ma/gjwdw4ky)  
-  <sub>MENtalks · 39 de participanți</sub>
+  <sub>MENtalks · 40 de participanți</sub>
 
 ### Duminică, 25 octombrie
 
@@ -37,11 +30,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-18)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-19)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-18)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-19)
 
 ## Despre
 
@@ -53,4 +46,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 18 octombrie 2026*
+*Actualizat: 19 octombrie 2026*
