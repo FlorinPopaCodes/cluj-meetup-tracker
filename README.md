@@ -6,10 +6,10 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Marți, 20 octombrie
+### Miercuri, 21 octombrie
 
-- `18:00` [Beyond Borders: How Lean Teams Get International Customers in the Age of AI](https://lu.ma/clzrm2hm)  
-  <sub>Calin Buzan · 43 de participanți</sub>
+- `19:00` [MIDWEEK RUN #16 \| 9K + suprise](https://lu.ma/7iuwd55j)  
+  <sub>Hot Girl Run Club · 12 participanți</sub>
 
 ### Joi, 22 octombrie
 
@@ -19,7 +19,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Vineri, 23 octombrie
 
 - `19:00` [MENTALKS UNFILTERED CLUJ: ANTREPRENORIAT FĂRĂ FILTRU.](https://lu.ma/gjwdw4ky)  
-  <sub>MENtalks · 45 de participanți</sub>
+  <sub>MENtalks · 48 de participanți</sub>
 
 ### Duminică, 25 octombrie
 
@@ -29,17 +29,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Miercuri, 28 octombrie
 
 - `18:00` [Future Proof: An L&D Huddle. The Next-Gen Syllabus: Adapting L&D to the Current Context](https://lu.ma/s990aiin)  
-  <sub>L&D SHAKERS · 7 participanți</sub>
+  <sub>L&D SHAKERS · 10 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-20)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-21)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-20)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-21)
 
 ## Despre
 
@@ -51,4 +51,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 20 octombrie 2026*
+*Actualizat: 21 octombrie 2026*
