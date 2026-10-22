@@ -6,11 +6,6 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Miercuri, 21 octombrie
-
-- `19:00` [MIDWEEK RUN #16 \| 9K + suprise](https://lu.ma/7iuwd55j)  
-  <sub>Hot Girl Run Club · 12 participanți</sub>
-
 ### Joi, 22 octombrie
 
 - `19:30` [Product drinks in Cluj-Napoca](https://lu.ma/2dkn9wn7)  
@@ -19,7 +14,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Vineri, 23 octombrie
 
 - `19:00` [MENTALKS UNFILTERED CLUJ: ANTREPRENORIAT FĂRĂ FILTRU.](https://lu.ma/gjwdw4ky)  
-  <sub>MENtalks · 48 de participanți</sub>
+  <sub>MENtalks · 59 de participanți</sub>
 
 ### Duminică, 25 octombrie
 
@@ -28,18 +23,23 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Miercuri, 28 octombrie
 
-- `18:00` [Future Proof: An L&D Huddle. The Next-Gen Syllabus: Adapting L&D to the Current Context](https://lu.ma/s990aiin)  
+- `18:00` [Cluj-Napoca Local Hub. Future Proof: An L&D Huddle. The Next-Gen Syllabus: Adapting L&D to the Current Context](https://lu.ma/s990aiin)  
   <sub>L&D SHAKERS · 10 participanți</sub>
+
+### Joi, 5 noiembrie
+
+- `19:30` [ETHCluj Chill & Chat Community Hangout #33](https://lu.ma/ei27tqun)  
+  <sub>ETHCluj · 6 participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-21)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-22)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-21)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-22)
 
 ## Despre
 
@@ -51,4 +51,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 21 octombrie 2026*
+*Actualizat: 22 octombrie 2026*
