@@ -6,17 +6,12 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Vineri, 23 octombrie
-
-- `19:00` [MENTALKS UNFILTERED CLUJ: ANTREPRENORIAT FĂRĂ FILTRU.](https://lu.ma/gjwdw4ky)  
-  <sub>MENtalks · 67 de participanți</sub>
-
 ### Duminică, 25 octombrie
 
 - `10:00` [HOT GIRL SUNDAY RUN @Cofeels](https://lu.ma/i0nn8ga7)  
-  <sub>Hot Girl Run Club · 14 participanți</sub>
+  <sub>Hot Girl Run Club · 28 de participanți</sub>
 - `10:00` [Tura de duminică Cluj](https://lu.ma/u4n39kh2)  
-  <sub>Andrei Catinas · 2 participanți</sub>
+  <sub>Andrei Catinas · 4 participanți</sub>
 
 ### Miercuri, 28 octombrie
 
@@ -28,22 +23,27 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Miercuri, 4 noiembrie
 
 - `17:30` [Growth under pressure: What works in B2B tech marketing in 2027](https://lu.ma/y716yf2f)  
-  <sub>Reka Borbely-Bandy · 21 de participanți</sub>
+  <sub>Reka Borbely-Bandy · 23 de participanți</sub>
 
 ### Joi, 5 noiembrie
 
 - `19:30` [ETHCluj Chill & Chat Community Hangout #33](https://lu.ma/ei27tqun)  
   <sub>ETHCluj · 6 participanți</sub>
 
+### Sâmbătă, 7 noiembrie
+
+- `11:00` [Cluj-Napoca Meetup \| Home Assistant Community Day](https://lu.ma/1q5pu4by)  
+  <sub>Asociația Smart Home - ASH · 56 de participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-23)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-24)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-23)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-24)
 
 ## Despre
 
@@ -55,4 +55,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 23 octombrie 2026*
+*Actualizat: 24 octombrie 2026*
