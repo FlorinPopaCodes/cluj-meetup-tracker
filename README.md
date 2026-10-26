@@ -6,24 +6,22 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Duminică, 25 octombrie
+### Marți, 27 octombrie
 
-- `10:00` [HOT GIRL SUNDAY RUN @Cofeels](https://lu.ma/i0nn8ga7)  
-  <sub>Hot Girl Run Club · 34 de participanți</sub>
-- `10:00` [Tura de duminică Cluj](https://lu.ma/u4n39kh2)  
-  <sub>Andrei Catinas · 8 participanți</sub>
+- `19:00` [Creators Dinners \| Tema Ediției: Arta de a face mai puțin (members only)](https://lu.ma/2jb9fbnz)  
+  <sub>Andreea Chiuaru</sub>
 
 ### Miercuri, 28 octombrie
 
 - `18:00` [Cluj-Napoca Local Hub. Future Proof: An L&D Huddle. The Next-Gen Syllabus: Adapting L&D to the Current Context](https://lu.ma/s990aiin)  
   <sub>L&D SHAKERS · 15 participanți</sub>
 - `19:00` [Halloween Run 🦇❤️‍🔥](https://lu.ma/322h3f6w)  
-  <sub>Hot Girl Run Club · 38 de participanți</sub>
+  <sub>Hot Girl Run Club · 42 de participanți</sub>
 
 ### Miercuri, 4 noiembrie
 
 - `17:30` [Growth under pressure: What works in B2B tech marketing in 2027](https://lu.ma/y716yf2f)  
-  <sub>Reka Borbely-Bandy · 23 de participanți</sub>
+  <sub>Reka Borbely-Bandy · 25 de participanți</sub>
 
 ### Joi, 5 noiembrie
 
@@ -39,11 +37,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-25)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-26)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-25)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-26)
 
 ## Despre
 
@@ -55,4 +53,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 25 octombrie 2026*
+*Actualizat: 26 octombrie 2026*
