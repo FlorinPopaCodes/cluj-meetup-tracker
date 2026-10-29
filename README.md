@@ -6,17 +6,10 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Miercuri, 28 octombrie
-
-- `18:00` [Cluj-Napoca Local Hub. Future Proof: An L&D Huddle. The Next-Gen Syllabus: Adapting L&D to the Current Context](https://lu.ma/s990aiin)  
-  <sub>L&D SHAKERS · 20 de participanți</sub>
-- `19:00` [Halloween Run 🦇❤️‍🔥](https://lu.ma/322h3f6w)  
-  <sub>Hot Girl Run Club · 54 de participanți</sub>
-
 ### Sâmbătă, 31 octombrie
 
 - `19:00` [Halloween Party](https://lu.ma/iu4o5sad)  
-  <sub>TAGAP · 6 participanți</sub>
+  <sub>TAGAP · 5 participanți</sub>
 
 ### Duminică, 1 noiembrie
 
@@ -26,29 +19,29 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Miercuri, 4 noiembrie
 
 - `17:30` [Growth under pressure: What works in B2B tech marketing in 2027](https://lu.ma/y716yf2f)  
-  <sub>Reka Borbely-Bandy · 36 de participanți</sub>
+  <sub>Reka Borbely-Bandy · 41 de participanți</sub>
 
 ### Joi, 5 noiembrie
 
 - `18:30` [\[Community-Led Event\] Cine ce aduce? Nevoi și resurse în comunitatea AmpliFY Cluj](https://lu.ma/CLE-comunitate-Cluj)  
-  <sub>AmpliFY ONG · 12 participanți</sub>
+  <sub>AmpliFY ONG · 15 participanți</sub>
 - `19:30` [ETHCluj Chill & Chat Community Hangout #33](https://lu.ma/ei27tqun)  
-  <sub>ETHCluj · 6 participanți</sub>
+  <sub>ETHCluj · 7 participanți</sub>
 
 ### Sâmbătă, 7 noiembrie
 
 - `11:00` [Cluj-Napoca Meetup \| Home Assistant Community Day](https://lu.ma/1q5pu4by)  
-  <sub>Asociația Smart Home - ASH · 58 de participanți</sub>
+  <sub>Asociația Smart Home - ASH · 59 de participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-28)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-29)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-28)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-29)
 
 ## Despre
 
@@ -60,4 +53,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 28 octombrie 2026*
+*Actualizat: 29 octombrie 2026*
