@@ -9,41 +9,48 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Sâmbătă, 31 octombrie
 
 - `19:00` [Halloween Party](https://lu.ma/iu4o5sad)  
-  <sub>TAGAP · 5 participanți</sub>
+  <sub>TAGAP · 6 participanți</sub>
 
 ### Duminică, 1 noiembrie
 
 - `09:45` [Hot Girl Run Club x INYO \| 5K Run & Recovery](https://lu.ma/88emi54d)  
-  <sub>Hot Girl Run Club · 6 participanți</sub>
+  <sub>Hot Girl Run Club · 7 participanți</sub>
+- `10:00` [Tura de duminică Cluj](https://lu.ma/4hngub6e)  
+  <sub>Andrei Catinas · 1 participant</sub>
 
 ### Miercuri, 4 noiembrie
 
 - `17:30` [Growth under pressure: What works in B2B tech marketing in 2027](https://lu.ma/y716yf2f)  
-  <sub>Reka Borbely-Bandy · 49 de participanți</sub>
+  <sub>Reka Borbely-Bandy · 59 de participanți</sub>
 - `18:00` [🌱 NOROFERT la INVEST CLUB \| Strategia de creștere, planurile de viitor și dialog cu investitorii](https://lu.ma/94u5rff1)  
-  <sub>Paul Maior · 5 participanți</sub>
+  <sub>Paul Maior · 6 participanți</sub>
 
 ### Joi, 5 noiembrie
 
 - `18:30` [\[Community-Led Event\] Cine ce aduce? Nevoi și resurse în comunitatea AmpliFY Cluj](https://lu.ma/CLE-comunitate-Cluj)  
-  <sub>AmpliFY ONG · 19 participanți</sub>
+  <sub>AmpliFY ONG · 27 de participanți</sub>
 - `19:30` [ETHCluj Chill & Chat Community Hangout #33](https://lu.ma/ei27tqun)  
   <sub>ETHCluj · 7 participanți</sub>
 
 ### Sâmbătă, 7 noiembrie
 
 - `11:00` [Cluj-Napoca Meetup \| Home Assistant Community Day](https://lu.ma/1q5pu4by)  
-  <sub>Asociația Smart Home - ASH · 61 de participanți</sub>
+  <sub>Asociația Smart Home - ASH · 63 de participanți</sub>
+
+### Duminică, 8 noiembrie
+
+- `10:00` [Tura de duminică Cluj](https://lu.ma/vi1dp3hv)  
+  <sub>Andrei Catinas</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-30)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-10-31)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-30)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-10-31)
 
 ## Despre
 
@@ -55,4 +62,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 30 octombrie 2026*
+*Actualizat: 31 octombrie 2026*
