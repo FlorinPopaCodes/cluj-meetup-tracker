@@ -6,26 +6,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Duminică, 1 noiembrie
-
-- `09:45` [Hot Girl Run Club x INYO \| 5K Run & Recovery](https://lu.ma/88emi54d)  
-  <sub>Hot Girl Run Club · 7 participanți</sub>
-- `10:00` [HOT GIRL SUNDAY RUN](https://lu.ma/pi8fq04j)  
-  <sub>Hot Girl Run Club · 8 participanți</sub>
-- `10:00` [Tura de duminică Cluj](https://lu.ma/4hngub6e)  
-  <sub>Andrei Catinas · 3 participanți</sub>
-
 ### Miercuri, 4 noiembrie
 
 - `17:30` [Growth under pressure: What works in B2B tech marketing in 2027](https://lu.ma/y716yf2f)  
   <sub>Reka Borbely-Bandy · 59 de participanți</sub>
 - `18:00` [🌱 NOROFERT la INVEST CLUB \| Strategia de creștere, planurile de viitor și dialog cu investitorii](https://lu.ma/94u5rff1)  
-  <sub>Paul Maior · 9 participanți</sub>
+  <sub>Paul Maior · 13 participanți</sub>
 
 ### Joi, 5 noiembrie
 
 - `18:30` [\[Community-Led Event\] Cine ce aduce? Nevoi și resurse în comunitatea AmpliFY Cluj](https://lu.ma/CLE-comunitate-Cluj)  
-  <sub>AmpliFY ONG · 33 de participanți</sub>
+  <sub>AmpliFY ONG · 34 de participanți</sub>
 - `19:30` [ETHCluj Chill & Chat Community Hangout #33](https://lu.ma/ei27tqun)  
   <sub>ETHCluj · 7 participanți</sub>
 
@@ -48,11 +39,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-01)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-02)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-01)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-02)
 
 ## Despre
 
@@ -64,4 +55,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 1 noiembrie 2026*
+*Actualizat: 2 noiembrie 2026*
