@@ -9,21 +9,21 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Miercuri, 4 noiembrie
 
 - `17:30` [Growth under pressure: What works in B2B tech marketing in 2027](https://lu.ma/y716yf2f)  
-  <sub>Reka Borbely-Bandy · 59 de participanți</sub>
+  <sub>Reka Borbely-Bandy · 64 de participanți</sub>
 - `18:00` [🌱 NOROFERT la INVEST CLUB \| Strategia de creștere, planurile de viitor și dialog cu investitorii](https://lu.ma/94u5rff1)  
-  <sub>Paul Maior · 13 participanți</sub>
+  <sub>Paul Maior · 17 participanți</sub>
 
 ### Joi, 5 noiembrie
 
 - `18:30` [\[Community-Led Event\] Cine ce aduce? Nevoi și resurse în comunitatea AmpliFY Cluj](https://lu.ma/CLE-comunitate-Cluj)  
-  <sub>AmpliFY ONG · 34 de participanți</sub>
+  <sub>AmpliFY ONG · 37 de participanți</sub>
 - `19:30` [ETHCluj Chill & Chat Community Hangout #33](https://lu.ma/ei27tqun)  
   <sub>ETHCluj · 7 participanți</sub>
 
 ### Sâmbătă, 7 noiembrie
 
 - `11:00` [Cluj-Napoca Meetup \| Home Assistant Community Day](https://lu.ma/1q5pu4by)  
-  <sub>Asociația Smart Home - ASH · 63 de participanți</sub>
+  <sub>Asociația Smart Home - ASH · 68 de participanți</sub>
 
 ### Duminică, 8 noiembrie
 
@@ -39,11 +39,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-02)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-03)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-02)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-03)
 
 ## Despre
 
@@ -55,4 +55,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 2 noiembrie 2026*
+*Actualizat: 3 noiembrie 2026*
