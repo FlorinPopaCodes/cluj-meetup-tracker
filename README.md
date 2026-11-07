@@ -9,10 +9,12 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Sâmbătă, 7 noiembrie
 
 - `11:00` [Cluj-Napoca Meetup \| Home Assistant Community Day](https://lu.ma/1q5pu4by)  
-  <sub>Asociația Smart Home - ASH · 69 de participanți</sub>
+  <sub>Asociația Smart Home - ASH · 71 de participanți</sub>
 
 ### Duminică, 8 noiembrie
 
+- `10:00` [HOT GIRL SUNDAY RUN](https://lu.ma/5bgiycrd)  
+  <sub>Hot Girl Run Club · 14 participanți</sub>
 - `10:00` [Tura de duminică Cluj](https://lu.ma/vi1dp3hv)  
   <sub>Andrei Catinas</sub>
 
@@ -26,15 +28,20 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `18:00` [TMM IRL: Cluj Napoca. How Business Tools Make Your Marketing Job Simpler](https://lu.ma/nue2cdty)  
   <sub>The Marketing Meetup :)</sub>
 
+### Sâmbătă, 21 noiembrie
+
+- `16:00` [YESYES](https://lu.ma/zyigbc42)  
+  <sub>YESYES · 83 de participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-06)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-07)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-06)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-07)
 
 ## Despre
 
@@ -46,4 +53,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 6 noiembrie 2026*
+*Actualizat: 7 noiembrie 2026*
