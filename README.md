@@ -6,17 +6,15 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Duminică, 8 noiembrie
-
-- `10:00` [HOT GIRL SUNDAY RUN](https://lu.ma/5bgiycrd)  
-  <sub>Hot Girl Run Club · 19 participanți</sub>
-- `10:00` [Tura de duminică Cluj](https://lu.ma/vi1dp3hv)  
-  <sub>Andrei Catinas · 1 participant</sub>
-
 ### Marți, 10 noiembrie
 
 - `19:00` [Creators Dinners \| Tema Ediției: #LessonLearned (members only)](https://lu.ma/z3akei5i)  
   <sub>Andreea Chiuaru</sub>
+
+### Joi, 12 noiembrie
+
+- `18:00` [OpenAlt Romania Meetup #6](https://lu.ma/sm4l3uu2)  
+  <sub>Barbora Viski · 3 participanți</sub>
 
 ### Duminică, 15 noiembrie
 
@@ -31,22 +29,27 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Sâmbătă, 21 noiembrie
 
 - `16:00` [YESYES](https://lu.ma/zyigbc42)  
-  <sub>YESYES · 83 de participanți</sub>
+  <sub>YESYES · 86 de participanți</sub>
 
 ### Duminică, 22 noiembrie
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/ufbqr2jr)  
-  <sub>Andrei Catinas</sub>
+  <sub>Andrei Catinas · 1 participant</sub>
+
+### Luni, 23 noiembrie
+
+- `18:00` [Enterprise Architecture & The Evolution of AI](https://lu.ma/l0g37ze5)  
+  <sub>Gabor Sulok · 42 de participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-08)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-09)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-08)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-09)
 
 ## Despre
 
@@ -58,4 +61,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 8 noiembrie 2026*
+*Actualizat: 9 noiembrie 2026*
