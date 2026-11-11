@@ -6,10 +6,10 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Marți, 10 noiembrie
+### Miercuri, 11 noiembrie
 
-- `19:00` [Creators Dinners \| Tema Ediției: #LessonLearned (members only)](https://lu.ma/z3akei5i)  
-  <sub>Andreea Chiuaru</sub>
+- `19:00` [WEDNESDAY DRILLS & STRIDES](https://lu.ma/zu17q0gn)  
+  <sub>Pop Iulia · 3 participanți</sub>
 
 ### Joi, 12 noiembrie
 
@@ -26,12 +26,12 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `18:00` [TMM IRL: Cluj Napoca. How Business Tools Make Your Marketing Job Simpler](https://lu.ma/nue2cdty)  
   <sub>The Marketing Meetup :)</sub>
 - `19:00` [Proiecție de film & discuție: Taxi Driver (r. Martin Scorsese)](https://lu.ma/b74bebmi)  
-  <sub>Centrul de Cultura Urbana · 30 de participanți</sub>
+  <sub>Centrul de Cultura Urbana · 51 de participanți</sub>
 
 ### Sâmbătă, 21 noiembrie
 
 - `16:00` [YESYES](https://lu.ma/zyigbc42)  
-  <sub>YESYES · 89 de participanți</sub>
+  <sub>YESYES · 92 de participanți</sub>
 
 ### Duminică, 22 noiembrie
 
@@ -41,17 +41,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Luni, 23 noiembrie
 
 - `18:00` [Enterprise Architecture & The Evolution of AI](https://lu.ma/l0g37ze5)  
-  <sub>Gabor Sulok · 47 de participanți</sub>
+  <sub>Gabor Sulok · 58 de participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-10)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-11)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-10)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-11)
 
 ## Despre
 
@@ -63,4 +63,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 10 noiembrie 2026*
+*Actualizat: 11 noiembrie 2026*
