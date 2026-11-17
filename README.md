@@ -8,15 +8,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Miercuri, 18 noiembrie
 
+- `15:00` [AI Technologies & Research Forum 2026](https://lu.ma/rfxzp34b)  
+  <sub>ROTSA | Romanian Tech Startups Association · 33 de participanți</sub>
 - `18:00` [TMM IRL: Cluj Napoca. How Business Tools Make Your Marketing Job Simpler](https://lu.ma/nue2cdty)  
   <sub>The Marketing Meetup :)</sub>
 - `19:00` [Proiecție de film & discuție: Taxi Driver (r. Martin Scorsese)](https://lu.ma/b74bebmi)  
-  <sub>Centrul de Cultura Urbana · 126 de participanți</sub>
+  <sub>Centrul de Cultura Urbana · 146 de participanți</sub>
 
 ### Sâmbătă, 21 noiembrie
 
 - `16:00` [YESYES](https://lu.ma/zyigbc42)  
-  <sub>YESYES · 107 de participanți</sub>
+  <sub>YESYES · 113 de participanți</sub>
 
 ### Duminică, 22 noiembrie
 
@@ -42,11 +44,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-16)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-17)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-16)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-17)
 
 ## Despre
 
@@ -58,4 +60,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 16 noiembrie 2026*
+*Actualizat: 17 noiembrie 2026*
