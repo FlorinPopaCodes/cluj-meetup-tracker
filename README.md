@@ -6,10 +6,15 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
+### Vineri, 20 noiembrie
+
+- `19:00` ["(Un)fortunately I'm back" album listening session @MuFAroom](https://lu.ma/wh7xsett)  
+  <sub>Cerb · 5 participanți</sub>
+
 ### Sâmbătă, 21 noiembrie
 
 - `16:00` [YESYES](https://lu.ma/zyigbc42)  
-  <sub>YESYES · 119 de participanți</sub>
+  <sub>YESYES · 124 de participanți</sub>
 
 ### Duminică, 22 noiembrie
 
@@ -21,25 +26,42 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `18:00` [Enterprise Architecture & The Evolution of AI](https://lu.ma/l0g37ze5)  
   <sub>Gabor Sulok · 58 de participanți</sub>
 
+### Marți, 24 noiembrie
+
+- `18:00` [Back To school](https://lu.ma/tovnxdrz)  
+  <sub>Robert Pop · 6 participanți</sub>
+
 ### Miercuri, 25 noiembrie
 
 - `17:30` [Cluj-Napoca Local Hub: (Re)Imagining Your Career Path](https://lu.ma/dp3vbfzr)  
   <sub>L&D SHAKERS</sub>
+- `18:30` [HGRC NUTRITION TALKS W/ IOANA MESEA](https://lu.ma/g16vwn0u)  
+  <sub>Hot Girl Run Club · 15 participanți</sub>
+
+### Sâmbătă, 28 noiembrie
+
+- `18:00` [MENtalks UNFILTERED: CLUJ](https://lu.ma/2xeyjs7n)  
+  <sub>MENtalks · 16 participanți</sub>
 
 ### Duminică, 29 noiembrie
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/3g57nh1u)  
   <sub>Andrei Catinas</sub>
 
+### Vineri, 4 decembrie
+
+- `19:00` [Lansare carte Spețe Imobiliare \| 4 Decembrie \| Founders Hive în Cluj-Napoca](https://lu.ma/5e5lm1gg)  
+  <sub>Adrian · 15 participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-19)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-20)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-19)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-20)
 
 ## Despre
 
@@ -51,4 +73,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 19 noiembrie 2026*
+*Actualizat: 20 noiembrie 2026*
