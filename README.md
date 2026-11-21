@@ -6,30 +6,25 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Vineri, 20 noiembrie
-
-- `19:00` ["(Un)fortunately I'm back" album listening session @MuFAroom](https://lu.ma/wh7xsett)  
-  <sub>Cerb · 5 participanți</sub>
-
 ### Sâmbătă, 21 noiembrie
 
 - `16:00` [YESYES](https://lu.ma/zyigbc42)  
-  <sub>YESYES · 124 de participanți</sub>
+  <sub>YESYES · 137 de participanți</sub>
 
 ### Duminică, 22 noiembrie
 
 - `10:00` [Tura de duminică Cluj](https://lu.ma/ufbqr2jr)  
-  <sub>Andrei Catinas · 2 participanți</sub>
+  <sub>Andrei Catinas</sub>
 
 ### Luni, 23 noiembrie
 
 - `18:00` [Enterprise Architecture & The Evolution of AI](https://lu.ma/l0g37ze5)  
-  <sub>Gabor Sulok · 58 de participanți</sub>
+  <sub>Gabor Sulok · 60 de participanți</sub>
 
 ### Marți, 24 noiembrie
 
 - `18:00` [Back To school](https://lu.ma/tovnxdrz)  
-  <sub>Robert Pop · 6 participanți</sub>
+  <sub>Robert Pop · 29 de participanți</sub>
 
 ### Miercuri, 25 noiembrie
 
@@ -41,7 +36,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Sâmbătă, 28 noiembrie
 
 - `18:00` [MENtalks UNFILTERED: CLUJ](https://lu.ma/2xeyjs7n)  
-  <sub>MENtalks · 16 participanți</sub>
+  <sub>MENtalks · 21 de participanți</sub>
 
 ### Duminică, 29 noiembrie
 
@@ -57,11 +52,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-20)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-21)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-20)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-21)
 
 ## Despre
 
@@ -73,4 +68,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 20 noiembrie 2026*
+*Actualizat: 21 noiembrie 2026*
