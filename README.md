@@ -6,15 +6,12 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Sâmbătă, 21 noiembrie
-
-- `16:00` [YESYES](https://lu.ma/zyigbc42)  
-  <sub>YESYES · 137 de participanți</sub>
-
 ### Duminică, 22 noiembrie
 
+- `09:30` [Hot Girl Sunday Run](https://lu.ma/a3q6mckp)  
+  <sub>Hot Girl Run Club · 20 de participanți</sub>
 - `10:00` [Tura de duminică Cluj](https://lu.ma/ufbqr2jr)  
-  <sub>Andrei Catinas</sub>
+  <sub>Andrei Catinas · 2 participanți</sub>
 
 ### Luni, 23 noiembrie
 
@@ -24,7 +21,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Marți, 24 noiembrie
 
 - `18:00` [Back To school](https://lu.ma/tovnxdrz)  
-  <sub>Robert Pop · 29 de participanți</sub>
+  <sub>Robert Pop · 31 de participanți</sub>
 
 ### Miercuri, 25 noiembrie
 
@@ -52,11 +49,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-21)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-22)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-21)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-22)
 
 ## Despre
 
@@ -68,4 +65,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 21 noiembrie 2026*
+*Actualizat: 22 noiembrie 2026*
