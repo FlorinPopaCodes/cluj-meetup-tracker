@@ -6,22 +6,15 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Duminică, 22 noiembrie
-
-- `09:30` [Hot Girl Sunday Run](https://lu.ma/a3q6mckp)  
-  <sub>Hot Girl Run Club · 20 de participanți</sub>
-- `10:00` [Tura de duminică Cluj](https://lu.ma/ufbqr2jr)  
-  <sub>Andrei Catinas · 2 participanți</sub>
-
 ### Luni, 23 noiembrie
 
 - `18:00` [Enterprise Architecture & The Evolution of AI](https://lu.ma/l0g37ze5)  
-  <sub>Gabor Sulok · 60 de participanți</sub>
+  <sub>Gabor Sulok · 61 de participanți</sub>
 
 ### Marți, 24 noiembrie
 
 - `18:00` [Back To school](https://lu.ma/tovnxdrz)  
-  <sub>Robert Pop · 31 de participanți</sub>
+  <sub>Robert Pop · 32 de participanți</sub>
 
 ### Miercuri, 25 noiembrie
 
@@ -33,7 +26,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Sâmbătă, 28 noiembrie
 
 - `18:00` [MENtalks UNFILTERED: CLUJ](https://lu.ma/2xeyjs7n)  
-  <sub>MENtalks · 21 de participanți</sub>
+  <sub>MENtalks · 23 de participanți</sub>
 
 ### Duminică, 29 noiembrie
 
@@ -45,15 +38,20 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 - `19:00` [Lansare carte Spețe Imobiliare \| 4 Decembrie \| Founders Hive în Cluj-Napoca](https://lu.ma/5e5lm1gg)  
   <sub>Adrian · 15 participanți</sub>
 
+### Luni, 7 decembrie
+
+- `19:00` [Cluj Tech Mixer : December Edition](https://lu.ma/1qmw55tw)  
+  <sub>neomixers by ▲promocrat · 34 de participanți</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-22)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-23)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-22)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-23)
 
 ## Despre
 
@@ -65,4 +63,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 22 noiembrie 2026*
+*Actualizat: 23 noiembrie 2026*
