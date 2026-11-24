@@ -6,15 +6,10 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Luni, 23 noiembrie
-
-- `18:00` [Enterprise Architecture & The Evolution of AI](https://lu.ma/l0g37ze5)  
-  <sub>Gabor Sulok · 61 de participanți</sub>
-
 ### Marți, 24 noiembrie
 
 - `18:00` [Back To school](https://lu.ma/tovnxdrz)  
-  <sub>Robert Pop · 32 de participanți</sub>
+  <sub>Robert Pop · 40 de participanți</sub>
 
 ### Miercuri, 25 noiembrie
 
@@ -26,7 +21,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Sâmbătă, 28 noiembrie
 
 - `18:00` [MENtalks UNFILTERED: CLUJ](https://lu.ma/2xeyjs7n)  
-  <sub>MENtalks · 23 de participanți</sub>
+  <sub>MENtalks · 24 de participanți</sub>
 
 ### Duminică, 29 noiembrie
 
@@ -36,22 +31,22 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Vineri, 4 decembrie
 
 - `19:00` [Lansare carte Spețe Imobiliare \| 4 Decembrie \| Founders Hive în Cluj-Napoca](https://lu.ma/5e5lm1gg)  
-  <sub>Adrian · 15 participanți</sub>
+  <sub>Adrian · 16 participanți</sub>
 
 ### Luni, 7 decembrie
 
 - `19:00` [Cluj Tech Mixer : December Edition](https://lu.ma/1qmw55tw)  
-  <sub>neomixers by ▲promocrat · 34 de participanți</sub>
+  <sub>neomixers by ▲promocrat · 38 de participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-23)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-24)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-23)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-24)
 
 ## Despre
 
@@ -63,4 +58,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 23 noiembrie 2026*
+*Actualizat: 24 noiembrie 2026*
