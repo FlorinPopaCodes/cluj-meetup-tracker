@@ -6,22 +6,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ## Următoarele 14 zile
 
-### Marți, 24 noiembrie
-
-- `18:00` [Back To school](https://lu.ma/tovnxdrz)  
-  <sub>Robert Pop · 40 de participanți</sub>
-
 ### Miercuri, 25 noiembrie
 
 - `17:30` [Cluj-Napoca Local Hub: (Re)Imagining Your Career Path](https://lu.ma/dp3vbfzr)  
   <sub>L&D SHAKERS</sub>
 - `18:30` [HGRC NUTRITION TALKS W/ IOANA MESEA](https://lu.ma/g16vwn0u)  
-  <sub>Hot Girl Run Club · 15 participanți</sub>
+  <sub>Hot Girl Run Club · 14 participanți</sub>
 
 ### Sâmbătă, 28 noiembrie
 
 - `18:00` [MENtalks UNFILTERED: CLUJ](https://lu.ma/2xeyjs7n)  
-  <sub>MENtalks · 24 de participanți</sub>
+  <sub>MENtalks · 26 de participanți</sub>
 
 ### Duminică, 29 noiembrie
 
@@ -36,17 +31,17 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Luni, 7 decembrie
 
 - `19:00` [Cluj Tech Mixer : December Edition](https://lu.ma/1qmw55tw)  
-  <sub>neomixers by ▲promocrat · 38 de participanți</sub>
+  <sub>neomixers by ▲promocrat · 37 de participanți</sub>
 
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-24)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-25)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-24)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-25)
 
 ## Despre
 
@@ -58,4 +53,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 24 noiembrie 2026*
+*Actualizat: 25 noiembrie 2026*
