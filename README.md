@@ -9,7 +9,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Sâmbătă, 28 noiembrie
 
 - `18:00` [MENtalks UNFILTERED: CLUJ](https://lu.ma/2xeyjs7n)  
-  <sub>MENtalks · 28 de participanți</sub>
+  <sub>MENtalks · 31 de participanți</sub>
 
 ### Duminică, 29 noiembrie
 
@@ -19,7 +19,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Luni, 30 noiembrie
 
 - `09:00` [HOT FOR FOMO \| EcoTrail Shakeout Run](https://lu.ma/7thv5mem)  
-  <sub>Hot Girl Run Club · 17 participanți</sub>
+  <sub>Hot Girl Run Club · 23 de participanți</sub>
 
 ### Vineri, 4 decembrie
 
@@ -29,7 +29,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Luni, 7 decembrie
 
 - `19:00` [Cluj Tech Mixer : December Edition](https://lu.ma/1qmw55tw)  
-  <sub>neomixers by ▲promocrat · 39 de participanți</sub>
+  <sub>neomixers by ▲promocrat · 44 de participanți</sub>
 
 ### Joi, 10 decembrie
 
@@ -40,11 +40,11 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-26)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-27)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-26)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-27)
 
 ## Despre
 
@@ -56,4 +56,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 26 noiembrie 2026*
+*Actualizat: 27 noiembrie 2026*
