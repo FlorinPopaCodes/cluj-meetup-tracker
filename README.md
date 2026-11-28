@@ -9,7 +9,7 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Sâmbătă, 28 noiembrie
 
 - `18:00` [MENtalks UNFILTERED: CLUJ](https://lu.ma/2xeyjs7n)  
-  <sub>MENtalks · 31 de participanți</sub>
+  <sub>MENtalks · 38 de participanți</sub>
 
 ### Duminică, 29 noiembrie
 
@@ -29,22 +29,27 @@ Listă zilnică a evenimentelor din Cluj-Napoca disponibile pe lu.ma, plus eveni
 ### Luni, 7 decembrie
 
 - `19:00` [Cluj Tech Mixer : December Edition](https://lu.ma/1qmw55tw)  
-  <sub>neomixers by ▲promocrat · 44 de participanți</sub>
+  <sub>neomixers by ▲promocrat · 51 de participanți</sub>
 
 ### Joi, 10 decembrie
 
 - `19:30` [ETHCluj Chill & Chat Community Hangout #34](https://lu.ma/5rvaesrn)  
   <sub>ETHCluj · 4 participanți</sub>
 
+### Vineri, 11 decembrie
+
+- `09:00` [YakeBot la Cluj – Stoma Robotics Live](https://lu.ma/rlyzlup1)  
+  <sub>Stoma Robotics</sub>
+
 ## Activitate (ultimele 365 de zile)
 
 ### Evenimente pe zi
 
-![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-27)
+![Evenimente pe zi](assets/heatmap-events.svg?v=2026-11-28)
 
 ### Participanți pe zi
 
-![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-27)
+![Participanți pe zi](assets/heatmap-guests.svg?v=2026-11-28)
 
 ## Despre
 
@@ -56,4 +61,4 @@ Cod: [scripts/](scripts/) · Workflow: [.github/workflows/scrape.yml](.github/wo
 
 ---
 
-*Actualizat: 27 noiembrie 2026*
+*Actualizat: 28 noiembrie 2026*
